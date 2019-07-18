@@ -1,0 +1,1573 @@
+{
+    "Line": [
+        {
+            "Line": "4",
+            "LineName": "亞非"
+        },
+        {
+            "Line": "3",
+            "LineName": "歐洲"
+        },
+        {
+            "Line": "2",
+            "LineName": "大洋洲"
+        },
+        {
+            "Line": "1",
+            "LineName": "美洲"
+        },
+        {
+            "Line": "5",
+            "LineName": "大陸港澳"
+        },
+        {
+            "Line": "7",
+            "LineName": "東南亞"
+        },
+        {
+            "Line": "6",
+            "LineName": "東北亞"
+        }
+    ],
+    "Country": [
+        {
+            "Line": "4",
+            "CountryList": [
+                {
+                    "Country": "AE",
+                    "CountryName": "阿拉伯聯合大公國"
+                },
+                {
+                    "Country": "GR",
+                    "CountryName": "希臘"
+                }
+            ]
+        },
+        {
+            "Line": "3",
+            "CountryList": [
+                {
+                    "Country": "AT",
+                    "CountryName": "奧地利"
+                },
+                {
+                    "Country": "BE",
+                    "CountryName": "比利時"
+                },
+                {
+                    "Country": "CH",
+                    "CountryName": "瑞士"
+                },
+                {
+                    "Country": "CZ",
+                    "CountryName": "捷克"
+                },
+                {
+                    "Country": "DE",
+                    "CountryName": "德國"
+                },
+                {
+                    "Country": "DK",
+                    "CountryName": "丹麥"
+                },
+                {
+                    "Country": "ES",
+                    "CountryName": "西班牙"
+                },
+                {
+                    "Country": "FI",
+                    "CountryName": "芬蘭"
+                },
+                {
+                    "Country": "FR",
+                    "CountryName": "法國"
+                },
+                {
+                    "Country": "HR",
+                    "CountryName": "克羅埃西亞"
+                },
+                {
+                    "Country": "HU",
+                    "CountryName": "匈牙利"
+                },
+                {
+                    "Country": "IS",
+                    "CountryName": "冰島"
+                },
+                {
+                    "Country": "IT",
+                    "CountryName": "義大利"
+                },
+                {
+                    "Country": "LU",
+                    "CountryName": "盧森堡"
+                },
+                {
+                    "Country": "NL",
+                    "CountryName": "荷蘭"
+                },
+                {
+                    "Country": "NO",
+                    "CountryName": "挪威"
+                },
+                {
+                    "Country": "PT",
+                    "CountryName": "葡萄牙"
+                },
+                {
+                    "Country": "SE",
+                    "CountryName": "瑞典"
+                },
+                {
+                    "Country": "UK",
+                    "CountryName": "英國"
+                }
+            ]
+        },
+        {
+            "Line": "2",
+            "CountryList": [
+                {
+                    "Country": "AU",
+                    "CountryName": "澳大利亞"
+                },
+                {
+                    "Country": "NZ",
+                    "CountryName": "紐西蘭"
+                }
+            ]
+        },
+        {
+            "Line": "1",
+            "CountryList": [
+                {
+                    "Country": "CA",
+                    "CountryName": "加拿大"
+                },
+                {
+                    "Country": "FJ",
+                    "CountryName": "斐濟"
+                },
+                {
+                    "Country": "MV",
+                    "CountryName": "馬爾地夫共和國"
+                },
+                {
+                    "Country": "PF",
+                    "CountryName": "法屬波里尼西亞"
+                },
+                {
+                    "Country": "PW",
+                    "CountryName": "帛琉共和國"
+                },
+                {
+                    "Country": "US",
+                    "CountryName": "美國"
+                }
+            ]
+        },
+        {
+            "Line": "5",
+            "CountryList": [
+                {
+                    "Country": "CN",
+                    "CountryName": "中國大陸"
+                }
+            ]
+        },
+        {
+            "Line": "7",
+            "CountryList": [
+                {
+                    "Country": "ID",
+                    "CountryName": "印尼"
+                },
+                {
+                    "Country": "KH",
+                    "CountryName": "柬埔寨"
+                },
+                {
+                    "Country": "MY",
+                    "CountryName": "馬來西亞"
+                },
+                {
+                    "Country": "SG",
+                    "CountryName": "新加坡"
+                },
+                {
+                    "Country": "TH",
+                    "CountryName": "泰國"
+                },
+                {
+                    "Country": "VN",
+                    "CountryName": "越南"
+                }
+            ]
+        },
+        {
+            "Line": "6",
+            "CountryList": [
+                {
+                    "Country": "JP",
+                    "CountryName": "日本"
+                },
+                {
+                    "Country": "KR",
+                    "CountryName": "韓國"
+                }
+            ]
+        }
+    ],
+    "City": [
+        {
+            "Country": "AE",
+            "CityList": [
+                {
+                    "City": "DXB",
+                    "CityName": "杜拜",
+                    "CityEName": "DUBAI"
+                }
+            ]
+        },
+        {
+            "Country": "AT",
+            "CityList": [
+                {
+                    "City": "VIE",
+                    "CityName": "維也納",
+                    "CityEName": "VIENNA"
+                }
+            ]
+        },
+        {
+            "Country": "AU",
+            "CityList": [
+                {
+                    "City": "SYD",
+                    "CityName": "雪梨",
+                    "CityEName": "SYDNEY"
+                },
+                {
+                    "City": "BNE",
+                    "CityName": "布里斯班",
+                    "CityEName": "BRISBANE"
+                },
+                {
+                    "City": "OOL",
+                    "CityName": "黃金海岸",
+                    "CityEName": "GOLD COAST"
+                },
+                {
+                    "City": "ADL",
+                    "CityName": "阿德雷德",
+                    "CityEName": "ADELAIDE"
+                },
+                {
+                    "City": "CNS",
+                    "CityName": "凱恩斯",
+                    "CityEName": "CAIRNS"
+                },
+                {
+                    "City": "MEL",
+                    "CityName": "墨爾本",
+                    "CityEName": "MELBOURNE"
+                },
+                {
+                    "City": "PER",
+                    "CityName": "柏斯",
+                    "CityEName": "PERTH"
+                },
+                {
+                    "City": "CBR",
+                    "CityName": "坎培拉",
+                    "CityEName": "CANBERRA"
+                },
+                {
+                    "City": "DRW",
+                    "CityName": "達爾文",
+                    "CityEName": "DARWIN"
+                },
+                {
+                    "City": "HBA",
+                    "CityName": "荷巴特",
+                    "CityEName": "HOBART"
+                },
+                {
+                    "City": "LST",
+                    "CityName": "倫瑟斯頓",
+                    "CityEName": "LAUNCESTON"
+                }
+            ]
+        },
+        {
+            "Country": "BE",
+            "CityList": [
+                {
+                    "City": "BRU",
+                    "CityName": "布魯塞爾",
+                    "CityEName": "BRUSSELS"
+                }
+            ]
+        },
+        {
+            "Country": "CA",
+            "CityList": [
+                {
+                    "City": "YVR",
+                    "CityName": "溫哥華",
+                    "CityEName": "VANCOUVER"
+                },
+                {
+                    "City": "YYZ",
+                    "CityName": "多倫多",
+                    "CityEName": "TORONTO"
+                },
+                {
+                    "City": "YYJ",
+                    "CityName": "維多利亞",
+                    "CityEName": "VICTORIA"
+                },
+                {
+                    "City": "YZF",
+                    "CityName": "黃刀鎮",
+                    "CityEName": "YELLOWKNIFE"
+                }
+            ]
+        },
+        {
+            "Country": "CH",
+            "CityList": [
+                {
+                    "City": "GVA",
+                    "CityName": "日內瓦",
+                    "CityEName": "GENEVA"
+                },
+                {
+                    "City": "INT",
+                    "CityName": "茵特拉根",
+                    "CityEName": "INTERLAKEN"
+                },
+                {
+                    "City": "ZMT",
+                    "CityName": "策馬特",
+                    "CityEName": "ZERMATT"
+                },
+                {
+                    "City": "ZRH",
+                    "CityName": "蘇黎世",
+                    "CityEName": "ZURICH"
+                }
+            ]
+        },
+        {
+            "Country": "CN",
+            "CityList": [
+                {
+                    "City": "HKG",
+                    "CityName": "香港",
+                    "CityEName": "HONG KONG"
+                },
+                {
+                    "City": "MFM",
+                    "CityName": "澳門",
+                    "CityEName": "MACAU"
+                },
+                {
+                    "City": "SHA",
+                    "CityName": "上海",
+                    "CityEName": "SHANGHAI"
+                },
+                {
+                    "City": "PEK",
+                    "CityName": "北京",
+                    "CityEName": "BEIJING"
+                },
+                {
+                    "City": "SZX",
+                    "CityName": "深圳-廣東省",
+                    "CityEName": "SHENZHEN"
+                },
+                {
+                    "City": "ZUH",
+                    "CityName": "珠海-廣東省",
+                    "CityEName": "ZHUHAI"
+                },
+                {
+                    "City": "NKG",
+                    "CityName": "南京-江蘇省",
+                    "CityEName": "NANJING"
+                },
+                {
+                    "City": "HGH",
+                    "CityName": "杭州-浙江省",
+                    "CityEName": "HANGZHOU"
+                },
+                {
+                    "City": "XMN",
+                    "CityName": "廈門-福建省",
+                    "CityEName": "XIAMEN"
+                },
+                {
+                    "City": "CTU",
+                    "CityName": "成都-四川省",
+                    "CityEName": "CHENGDU"
+                },
+                {
+                    "City": "TAO",
+                    "CityName": "青島-山東省",
+                    "CityEName": "QINGDAO"
+                },
+                {
+                    "City": "KMG",
+                    "CityName": "昆明-雲南省",
+                    "CityEName": "KUNMING"
+                },
+                {
+                    "City": "NGB",
+                    "CityName": "寧波-浙江省",
+                    "CityEName": "NINGBO"
+                },
+                {
+                    "City": "CGO",
+                    "CityName": "鄭州-河南省",
+                    "CityEName": "ZHENGZHOU"
+                },
+                {
+                    "City": "FOC",
+                    "CityName": "福州-福建省",
+                    "CityEName": "FUZHOU"
+                },
+                {
+                    "City": "HAK",
+                    "CityName": "海口-海南省",
+                    "CityEName": "HAIKOU"
+                },
+                {
+                    "City": "HRB",
+                    "CityName": "哈爾濱-黑龍江省",
+                    "CityEName": "HARBIN"
+                },
+                {
+                    "City": "SHE",
+                    "CityName": "瀋陽-遼寧省",
+                    "CityEName": "SHENYANG"
+                },
+                {
+                    "City": "TXN",
+                    "CityName": "黃山-安徽省",
+                    "CityEName": "HUANGSHAN"
+                },
+                {
+                    "City": "WUX",
+                    "CityName": "無錫-江蘇省",
+                    "CityEName": "WUXI"
+                },
+                {
+                    "City": "CAN",
+                    "CityName": "廣州-廣東省",
+                    "CityEName": "GUANGZHOU"
+                },
+                {
+                    "City": "SUZ",
+                    "CityName": "蘇州-江蘇省",
+                    "CityEName": "SUZHOU"
+                },
+                {
+                    "City": "DLC",
+                    "CityName": "大連-遼寧省",
+                    "CityEName": "DALIAN"
+                },
+                {
+                    "City": "TSN",
+                    "CityName": "天津-河北省",
+                    "CityEName": "TIANJIN"
+                },
+                {
+                    "City": "CKG",
+                    "CityName": "重慶-四川省",
+                    "CityEName": "CHONGQING"
+                },
+                {
+                    "City": "WUH",
+                    "CityName": "武漢-湖北省",
+                    "CityEName": "WUHAN"
+                },
+                {
+                    "City": "CSX",
+                    "CityName": "長沙-湖南省",
+                    "CityEName": "CHANGSHA"
+                },
+                {
+                    "City": "SYX",
+                    "CityName": "三亞-海南省",
+                    "CityEName": "SANYA"
+                },
+                {
+                    "City": "SIA",
+                    "CityName": "西安-陜西省",
+                    "CityEName": "XIAN"
+                },
+                {
+                    "City": "CGQ",
+                    "CityName": "長春-吉林省",
+                    "CityEName": "CHANGCHUN"
+                },
+                {
+                    "City": "CZX",
+                    "CityName": "常州-江蘇省",
+                    "CityEName": "CHANGZHOU"
+                },
+                {
+                    "City": "DYG",
+                    "CityName": "張家界-湖南省",
+                    "CityEName": "ZHANGJIAJIE"
+                },
+                {
+                    "City": "HFE",
+                    "CityName": "合肥-安徽省",
+                    "CityEName": "HEFEI"
+                },
+                {
+                    "City": "JJN",
+                    "CityName": "泉州-晉江市",
+                    "CityEName": "JINJIANG"
+                },
+                {
+                    "City": "KSH",
+                    "CityName": "昆山-江蘇省",
+                    "CityEName": "KUNSHANG"
+                },
+                {
+                    "City": "QZU",
+                    "CityName": "泉州-福建省",
+                    "CityEName": "QUANZHOU"
+                },
+                {
+                    "City": "TNA",
+                    "CityName": "濟南-山東省",
+                    "CityEName": "JINAN"
+                },
+                {
+                    "City": "URC",
+                    "CityName": "烏魯木齊-新疆省",
+                    "CityEName": "URUMQI"
+                },
+                {
+                    "City": "YNT",
+                    "CityName": "煙台-山東省",
+                    "CityEName": "YANTAI"
+                }
+            ]
+        },
+        {
+            "Country": "CZ",
+            "CityList": [
+                {
+                    "City": "PRG",
+                    "CityName": "布拉格",
+                    "CityEName": "PRAGUE"
+                }
+            ]
+        },
+        {
+            "Country": "DE",
+            "CityList": [
+                {
+                    "City": "MUC",
+                    "CityName": "慕尼黑",
+                    "CityEName": "MUNICH"
+                },
+                {
+                    "City": "BER",
+                    "CityName": "柏林",
+                    "CityEName": "BERLIN"
+                },
+                {
+                    "City": "FRA",
+                    "CityName": "法蘭克福",
+                    "CityEName": "FRANKFURT"
+                }
+            ]
+        },
+        {
+            "Country": "DK",
+            "CityList": [
+                {
+                    "City": "CPH",
+                    "CityName": "哥本哈根",
+                    "CityEName": "COPENHAGEN"
+                }
+            ]
+        },
+        {
+            "Country": "ES",
+            "CityList": [
+                {
+                    "City": "MAD",
+                    "CityName": "馬德里",
+                    "CityEName": "MADRID"
+                },
+                {
+                    "City": "BCN",
+                    "CityName": "巴塞隆納",
+                    "CityEName": "BARCELONA"
+                },
+                {
+                    "City": "SVQ",
+                    "CityName": "塞維亞",
+                    "CityEName": "SEVILLA"
+                }
+            ]
+        },
+        {
+            "Country": "FI",
+            "CityList": [
+                {
+                    "City": "HEL",
+                    "CityName": "赫爾辛基",
+                    "CityEName": "HELSINKI"
+                }
+            ]
+        },
+        {
+            "Country": "FJ",
+            "CityList": [
+                {
+                    "City": "NAN",
+                    "CityName": "南地",
+                    "CityEName": "NADI"
+                },
+                {
+                    "City": "FIJ",
+                    "CityName": "斐濟",
+                    "CityEName": ""
+                }
+            ]
+        },
+        {
+            "Country": "FR",
+            "CityList": [
+                {
+                    "City": "PAR",
+                    "CityName": "巴黎",
+                    "CityEName": "PARIS"
+                },
+                {
+                    "City": "AIX",
+                    "CityName": "AIX EN RPOVENCE",
+                    "CityEName": "AIX EN RPOVENCE"
+                },
+                {
+                    "City": "AVN",
+                    "CityName": "亞維農",
+                    "CityEName": "AVIGNON"
+                },
+                {
+                    "City": "CMX",
+                    "CityName": "CHAMONIX MONT BLANC",
+                    "CityEName": "CHAMONIX MONT BLANC"
+                },
+                {
+                    "City": "LIQ",
+                    "CityName": "LES ALLUS",
+                    "CityEName": "LES ALLUS"
+                },
+                {
+                    "City": "MRS",
+                    "CityName": "馬賽",
+                    "CityEName": "MARSEILLE"
+                },
+                {
+                    "City": "NCE",
+                    "CityName": "尼斯",
+                    "CityEName": "NICE"
+                },
+                {
+                    "City": "SMD",
+                    "CityName": "SAINT MARTIN DE",
+                    "CityEName": "SAINT MARTIN DE BELLEVILLE"
+                }
+            ]
+        },
+        {
+            "Country": "GR",
+            "CityList": [
+                {
+                    "City": "ATH",
+                    "CityName": "雅典",
+                    "CityEName": "ATHENS"
+                }
+            ]
+        },
+        {
+            "Country": "HR",
+            "CityList": [
+                {
+                    "City": "ZAG",
+                    "CityName": "札格雷布",
+                    "CityEName": "ZAGREB"
+                }
+            ]
+        },
+        {
+            "Country": "HU",
+            "CityList": [
+                {
+                    "City": "BUD",
+                    "CityName": "布達佩斯",
+                    "CityEName": "BUDAPEST"
+                }
+            ]
+        },
+        {
+            "Country": "ID",
+            "CityList": [
+                {
+                    "City": "DPS",
+                    "CityName": "峇里島",
+                    "CityEName": "BALI"
+                },
+                {
+                    "City": "SUB",
+                    "CityName": "泗水",
+                    "CityEName": "SURABAYA"
+                },
+                {
+                    "City": "JKT",
+                    "CityName": "雅加達",
+                    "CityEName": "JAKARTA"
+                }
+            ]
+        },
+        {
+            "Country": "IS",
+            "CityList": [
+                {
+                    "City": "REK",
+                    "CityName": "雷克雅維克",
+                    "CityEName": "REYKJAVIK"
+                }
+            ]
+        },
+        {
+            "Country": "IT",
+            "CityList": [
+                {
+                    "City": "FLR",
+                    "CityName": "佛羅倫斯",
+                    "CityEName": "FLORENCE"
+                },
+                {
+                    "City": "ROM",
+                    "CityName": "羅馬",
+                    "CityEName": "ROME"
+                },
+                {
+                    "City": "MIL",
+                    "CityName": "米蘭",
+                    "CityEName": "MILAN"
+                },
+                {
+                    "City": "VCE",
+                    "CityName": "威尼斯",
+                    "CityEName": "VENICE"
+                },
+                {
+                    "City": "NAP",
+                    "CityName": "拿坡里",
+                    "CityEName": "NAPLES"
+                }
+            ]
+        },
+        {
+            "Country": "JP",
+            "CityList": [
+                {
+                    "City": "TYO",
+                    "CityName": "東京",
+                    "CityEName": "TOKYO"
+                },
+                {
+                    "City": "OSA",
+                    "CityName": "大阪",
+                    "CityEName": "OSAKA"
+                },
+                {
+                    "City": "FUK",
+                    "CityName": "福岡市-福岡縣",
+                    "CityEName": "FUKUOKA"
+                },
+                {
+                    "City": "NGO",
+                    "CityName": "名古屋-愛知縣",
+                    "CityEName": "NAGOYA"
+                },
+                {
+                    "City": "SPK",
+                    "CityName": "札幌-北海道",
+                    "CityEName": "SAPPORO"
+                },
+                {
+                    "City": "ISG",
+                    "CityName": "石垣島-沖繩縣",
+                    "CityEName": "ISHIGAKI"
+                },
+                {
+                    "City": "OKA",
+                    "CityName": "沖繩",
+                    "CityEName": "OKINAWA"
+                },
+                {
+                    "City": "KYO",
+                    "CityName": "京都",
+                    "CityEName": "KYOTO"
+                },
+                {
+                    "City": "NAR",
+                    "CityName": "奈良市-奈良縣",
+                    "CityEName": "NARA SHI"
+                },
+                {
+                    "City": "JHA",
+                    "CityName": "箱根-神奈川縣",
+                    "CityEName": "HAKONE"
+                },
+                {
+                    "City": "KOB",
+                    "CityName": "神戶市-兵庫縣",
+                    "CityEName": "KOBE"
+                },
+                {
+                    "City": "YOK",
+                    "CityName": "橫濱-神奈川縣",
+                    "CityEName": "YOKOHAMA"
+                },
+                {
+                    "City": "KAL",
+                    "CityName": "輕井澤-長野縣",
+                    "CityEName": "KARUIZAWA"
+                },
+                {
+                    "City": "SDJ",
+                    "CityName": "仙台市-宮城縣",
+                    "CityEName": "SENDAI SHI"
+                },
+                {
+                    "City": "HKD",
+                    "CityName": "函館-北海道",
+                    "CityEName": "HAKODATE"
+                },
+                {
+                    "City": "OTA",
+                    "CityName": "小樽-北海道",
+                    "CityEName": "OTARU"
+                },
+                {
+                    "City": "AKJ",
+                    "CityName": "旭川-北海道",
+                    "CityEName": "ASAHIKAWA"
+                },
+                {
+                    "City": "AOJ",
+                    "CityName": "青森市-青森縣",
+                    "CityEName": "AOMORI SHI"
+                },
+                {
+                    "City": "BPU",
+                    "CityName": "別府市-大分縣",
+                    "CityEName": "BEPPU SHI"
+                },
+                {
+                    "City": "HIJ",
+                    "CityName": "廣島市-廣島縣",
+                    "CityEName": "HIROSHIMA SHI"
+                },
+                {
+                    "City": "IDO",
+                    "CityName": "伊豆市-靜岡縣",
+                    "CityEName": "IZU SHI"
+                },
+                {
+                    "City": "KLO",
+                    "CityName": "下呂町-岐阜縣",
+                    "CityEName": "GERO"
+                },
+                {
+                    "City": "KMI",
+                    "CityName": "宮崎市-宮崎縣",
+                    "CityEName": "MIYAZAKI SHI"
+                },
+                {
+                    "City": "KMQ",
+                    "CityName": "小松市-石川縣",
+                    "CityEName": "KOMATSU SHI"
+                },
+                {
+                    "City": "KOJ",
+                    "CityName": "鹿兒島市-鹿兒島縣",
+                    "CityEName": "KAGOSHIMA SHI"
+                },
+                {
+                    "City": "OKJ",
+                    "CityName": "岡山市-岡山縣",
+                    "CityEName": "OKAYAMA SHI"
+                },
+                {
+                    "City": "TAK",
+                    "CityName": "高松市-香川縣",
+                    "CityEName": "TAKAMATSU SHI"
+                },
+                {
+                    "City": "TOY",
+                    "CityName": "富山市-富山縣",
+                    "CityEName": "TOYAMA SHI"
+                },
+                {
+                    "City": "ANA",
+                    "CityName": "阿南市-德島縣",
+                    "CityEName": "ANAN SHI"
+                },
+                {
+                    "City": "ASO",
+                    "CityName": "阿蘇郡-熊本縣",
+                    "CityEName": "ASO GUN"
+                },
+                {
+                    "City": "AXT",
+                    "CityName": "秋田市-秋田縣",
+                    "CityEName": "AKITA SHI"
+                },
+                {
+                    "City": "CBA",
+                    "CityName": "千葉市(幕張)-千葉縣",
+                    "CityEName": "CHIBA"
+                },
+                {
+                    "City": "CTE",
+                    "CityName": "千歲市-北海道",
+                    "CityEName": "CHITOSE SHI"
+                },
+                {
+                    "City": "DSN",
+                    "CityName": "大仙市-秋田縣",
+                    "CityEName": "DAISEN SHI"
+                },
+                {
+                    "City": "FSZ",
+                    "CityName": "靜岡市-靜岡縣",
+                    "CityEName": "SHIZUOKA SHI"
+                },
+                {
+                    "City": "HDA",
+                    "CityName": "飛驒市-岐阜縣",
+                    "CityEName": "HIDA SHI"
+                },
+                {
+                    "City": "IBS",
+                    "CityName": "指宿市-鹿兒島縣",
+                    "CityEName": "IBUSUKI"
+                },
+                {
+                    "City": "IZO",
+                    "CityName": "出雲市-島根縣",
+                    "CityEName": "IZUMO SHI"
+                },
+                {
+                    "City": "KCZ",
+                    "CityName": "高知市-高知縣",
+                    "CityEName": "KOCHI SHI"
+                },
+                {
+                    "City": "KIR",
+                    "CityName": "霧島-鹿兒島縣",
+                    "CityEName": "KIRISHIMA"
+                },
+                {
+                    "City": "KMA",
+                    "CityName": "鎌倉-神奈川縣",
+                    "CityEName": "KAMAKURA"
+                },
+                {
+                    "City": "KME",
+                    "CityName": "久留米市-福岡縣",
+                    "CityEName": "KURUME SHI"
+                },
+                {
+                    "City": "KMJ",
+                    "CityName": "熊本市-熊本縣",
+                    "CityEName": "KUMAMOTO SHI"
+                },
+                {
+                    "City": "KZA",
+                    "CityName": "金澤市-石川縣",
+                    "CityEName": "KANAZAWA"
+                },
+                {
+                    "City": "MAT",
+                    "CityName": "松江市-島根縣",
+                    "CityEName": "MATSUE SHI"
+                },
+                {
+                    "City": "MYJ",
+                    "CityName": "松山市-愛媛縣",
+                    "CityEName": "MATSUYAMA SHI"
+                },
+                {
+                    "City": "MYS",
+                    "CityName": "三好市-德島縣",
+                    "CityEName": "MIYOSHI SHI"
+                },
+                {
+                    "City": "NGS",
+                    "CityName": "長崎市-長崎縣",
+                    "CityEName": "NAGASAKI SHI"
+                },
+                {
+                    "City": "NIN",
+                    "CityName": "日南市-宮崎縣",
+                    "CityEName": "NICHINAN SHI"
+                },
+                {
+                    "City": "NRU",
+                    "CityName": "鳴門市-德島縣",
+                    "CityEName": "NARUTO SHI"
+                },
+                {
+                    "City": "NSR",
+                    "CityName": "能代市-秋田縣",
+                    "CityEName": "NOSHIRO SHI"
+                },
+                {
+                    "City": "ODM",
+                    "CityName": "御殿場市-靜岡縣",
+                    "CityEName": "GOTEMBA"
+                },
+                {
+                    "City": "OTS",
+                    "CityName": "大分市-大分縣",
+                    "CityEName": "OITA SHI"
+                },
+                {
+                    "City": "SEM",
+                    "CityName": "仙北市．田澤湖．角館-秋田縣",
+                    "CityEName": "SEMBOKU SHI  TAZAWAKO  KAKUNODATE"
+                },
+                {
+                    "City": "SGJ",
+                    "CityName": "佐賀市-佐賀縣",
+                    "CityEName": "SAGA SHI"
+                },
+                {
+                    "City": "SZJ",
+                    "CityName": "修善寺町-靜岡縣",
+                    "CityEName": "SHUZENJI"
+                },
+                {
+                    "City": "TAA",
+                    "CityName": "高岡市-富山縣",
+                    "CityEName": "TAKAOKA SHI"
+                },
+                {
+                    "City": "TAO",
+                    "CityName": "武雄市-佐賀縣",
+                    "CityEName": "TAKEO SHI"
+                },
+                {
+                    "City": "TBA",
+                    "CityName": "鳥羽市-三重縣",
+                    "CityEName": "TOBA SHI"
+                },
+                {
+                    "City": "TKC",
+                    "CityName": "高千穗町-宮崎縣",
+                    "CityEName": "TAKACHIHO"
+                },
+                {
+                    "City": "TKS",
+                    "CityName": "德島市-德島縣",
+                    "CityEName": "TOKUSHIMA SHI"
+                },
+                {
+                    "City": "TKY",
+                    "CityName": "高山市-岐阜縣",
+                    "CityEName": "TAKAYAMA SHI"
+                },
+                {
+                    "City": "TMG",
+                    "CityName": "嬬戀溫泉-群馬縣",
+                    "CityEName": "TSUMAGOI"
+                },
+                {
+                    "City": "TTJ",
+                    "CityName": "鳥取市-鳥取縣",
+                    "CityEName": "TOTTORI SHI"
+                },
+                {
+                    "City": "URA",
+                    "CityName": "浦安市(迪士尼)-千葉縣",
+                    "CityEName": "URAYASU SHI"
+                },
+                {
+                    "City": "URE",
+                    "CityName": "嬉野市-佐賀縣",
+                    "CityEName": "URESHINO SHI"
+                },
+                {
+                    "City": "YFI",
+                    "CityName": "湯布院-大分縣",
+                    "CityEName": "YUFUIN"
+                }
+            ]
+        },
+        {
+            "Country": "KH",
+            "CityList": [
+                {
+                    "City": "REP",
+                    "CityName": "暹粒(吳哥窟)",
+                    "CityEName": "ANGKOR WAT(SIEM REAP)"
+                },
+                {
+                    "City": "PNH",
+                    "CityName": "金邊",
+                    "CityEName": "PHNOM PENH"
+                }
+            ]
+        },
+        {
+            "Country": "KR",
+            "CityList": [
+                {
+                    "City": "SEL",
+                    "CityName": "首爾",
+                    "CityEName": "SEOUL"
+                },
+                {
+                    "City": "CJU",
+                    "CityName": "濟州島",
+                    "CityEName": "CHEJU(JEJU)"
+                },
+                {
+                    "City": "PUS",
+                    "CityName": "釜山",
+                    "CityEName": "PUSAN"
+                }
+            ]
+        },
+        {
+            "Country": "LU",
+            "CityList": [
+                {
+                    "City": "LUX",
+                    "CityName": "盧森堡",
+                    "CityEName": "LUXEMBOURG"
+                }
+            ]
+        },
+        {
+            "Country": "MV",
+            "CityList": [
+                {
+                    "City": "MLE",
+                    "CityName": "馬列",
+                    "CityEName": "MALE"
+                },
+                {
+                    "City": "MDV",
+                    "CityName": "馬爾地夫",
+                    "CityEName": ""
+                }
+            ]
+        },
+        {
+            "Country": "MY",
+            "CityList": [
+                {
+                    "City": "BKI",
+                    "CityName": "沙巴-亞庇",
+                    "CityEName": "SABAH KOTA KINABALU"
+                },
+                {
+                    "City": "KUL",
+                    "CityName": "吉隆坡",
+                    "CityEName": "Kuala Lumpur"
+                },
+                {
+                    "City": "PEN",
+                    "CityName": "檳城",
+                    "CityEName": "PENANG"
+                },
+                {
+                    "City": "SXG",
+                    "CityName": "雪邦",
+                    "CityEName": "SEPANG"
+                }
+            ]
+        },
+        {
+            "Country": "NL",
+            "CityList": [
+                {
+                    "City": "AMS",
+                    "CityName": "阿姆斯特丹",
+                    "CityEName": "AMSTERDAM"
+                },
+                {
+                    "City": "RTM",
+                    "CityName": "鹿特丹",
+                    "CityEName": "ROTTERDAM"
+                },
+                {
+                    "City": "MST",
+                    "CityName": "馬斯垂克",
+                    "CityEName": "MAASTRICHT"
+                },
+                {
+                    "City": "UTC",
+                    "CityName": "烏特勒支",
+                    "CityEName": "UTRECHT"
+                }
+            ]
+        },
+        {
+            "Country": "NO",
+            "CityList": [
+                {
+                    "City": "BGO",
+                    "CityName": "卑爾根",
+                    "CityEName": "BERGEN"
+                },
+                {
+                    "City": "OSL",
+                    "CityName": "奧斯陸",
+                    "CityEName": "OSLO"
+                }
+            ]
+        },
+        {
+            "Country": "NZ",
+            "CityList": [
+                {
+                    "City": "AKL",
+                    "CityName": "奧克蘭",
+                    "CityEName": "AUCKLAND"
+                },
+                {
+                    "City": "CHC",
+                    "CityName": "基督城",
+                    "CityEName": "CHRISTCHURCH"
+                },
+                {
+                    "City": "WLG",
+                    "CityName": "威靈頓",
+                    "CityEName": "WELLINGTON"
+                },
+                {
+                    "City": "ROT",
+                    "CityName": "羅吐魯阿",
+                    "CityEName": "ROTOROA"
+                },
+                {
+                    "City": "ZQN",
+                    "CityName": "皇后鎮",
+                    "CityEName": "QUEENSTOWN"
+                }
+            ]
+        },
+        {
+            "Country": "PF",
+            "CityList": [
+                {
+                    "City": "BOB",
+                    "CityName": "波拉波拉島",
+                    "CityEName": "BORA BORA"
+                },
+                {
+                    "City": "MOZ",
+                    "CityName": "茉莉亞島",
+                    "CityEName": "MOOREA"
+                },
+                {
+                    "City": "PPT",
+                    "CityName": "PAPEETE",
+                    "CityEName": "PAPEETE"
+                }
+            ]
+        },
+        {
+            "Country": "PT",
+            "CityList": [
+                {
+                    "City": "LIS",
+                    "CityName": "里斯本",
+                    "CityEName": "LISBON"
+                },
+                {
+                    "City": "OPO",
+                    "CityName": "波爾多",
+                    "CityEName": "PORTO PORTUGAL"
+                }
+            ]
+        },
+        {
+            "Country": "PW",
+            "CityList": [
+                {
+                    "City": "ROR",
+                    "CityName": "科羅",
+                    "CityEName": "KOROR"
+                }
+            ]
+        },
+        {
+            "Country": "SE",
+            "CityList": [
+                {
+                    "City": "STO",
+                    "CityName": "斯德哥爾摩",
+                    "CityEName": "STOCKHOLM"
+                }
+            ]
+        },
+        {
+            "Country": "SG",
+            "CityList": [
+                {
+                    "City": "SIN",
+                    "CityName": "新加坡",
+                    "CityEName": "SINGAPORE"
+                }
+            ]
+        },
+        {
+            "Country": "TH",
+            "CityList": [
+                {
+                    "City": "HKT",
+                    "CityName": "普吉島",
+                    "CityEName": "PHUKET"
+                },
+                {
+                    "City": "BKK",
+                    "CityName": "曼谷",
+                    "CityEName": "BANGKOK"
+                },
+                {
+                    "City": "USM",
+                    "CityName": "蘇美島",
+                    "CityEName": "KOH SAMUI"
+                },
+                {
+                    "City": "CNX",
+                    "CityName": "清邁",
+                    "CityEName": "CHIANG MAI"
+                },
+                {
+                    "City": "PYX",
+                    "CityName": "芭達雅",
+                    "CityEName": "PATTAYA"
+                },
+                {
+                    "City": "HHQ",
+                    "CityName": "華欣",
+                    "CityEName": "HUA-HIN"
+                },
+                {
+                    "City": "KBV",
+                    "CityName": "喀比",
+                    "CityEName": "KRABI"
+                },
+                {
+                    "City": "CEI",
+                    "CityName": "清萊",
+                    "CityEName": "CHIANG RAI"
+                },
+                {
+                    "City": "DDF",
+                    "CityName": "KHAO YAI",
+                    "CityEName": "KHAO YAI"
+                },
+                {
+                    "City": "HDY",
+                    "CityName": "合艾",
+                    "CityEName": "HAT YAI"
+                },
+                {
+                    "City": "KOP",
+                    "CityName": "KOH LIPE",
+                    "CityEName": "KOH LIPE"
+                },
+                {
+                    "City": "SAI",
+                    "CityName": "沙美島",
+                    "CityEName": "沙美島"
+                }
+            ]
+        },
+        {
+            "Country": "UK",
+            "CityList": [
+                {
+                    "City": "LON",
+                    "CityName": "倫敦",
+                    "CityEName": "LONDON"
+                },
+                {
+                    "City": "EDI",
+                    "CityName": "愛丁堡",
+                    "CityEName": "EDINBURGH"
+                }
+            ]
+        },
+        {
+            "Country": "US",
+            "CityList": [
+                {
+                    "City": "LAX",
+                    "CityName": "洛杉磯-加州",
+                    "CityEName": "LOS ANGELES CA"
+                },
+                {
+                    "City": "SFO",
+                    "CityName": "舊金山-加州",
+                    "CityEName": "SAN FRANCISCO CA"
+                },
+                {
+                    "City": "LAS",
+                    "CityName": "拉斯維加斯-內華達州",
+                    "CityEName": "LAS VEGAS NV"
+                },
+                {
+                    "City": "SEA",
+                    "CityName": "西雅圖-華盛頓州",
+                    "CityEName": "SEATTLE TACOMA"
+                },
+                {
+                    "City": "NYC",
+                    "CityName": "紐約-紐約州",
+                    "CityEName": "NEW YORK NY"
+                },
+                {
+                    "City": "HNL",
+                    "CityName": "檀香山-夏威夷州",
+                    "CityEName": "HONOLULU"
+                },
+                {
+                    "City": "GUM",
+                    "CityName": "關島",
+                    "CityEName": "GUAM"
+                },
+                {
+                    "City": "ANC",
+                    "CityName": "安克拉治-阿拉斯加州",
+                    "CityEName": "ANCHORAGE AK"
+                },
+                {
+                    "City": "CHI",
+                    "CityName": "芝加哥-伊利諾州",
+                    "CityEName": "CHICAGO IL"
+                },
+                {
+                    "City": "HOU",
+                    "CityName": "休士頓-德州",
+                    "CityEName": "HOUSTON TX"
+                },
+                {
+                    "City": "WAS",
+                    "CityName": "華盛頓",
+                    "CityEName": "WASHINGTON DC"
+                },
+                {
+                    "City": "ANA",
+                    "CityName": "安納漢-加州迪士尼",
+                    "CityEName": "ANAHEIM CA"
+                },
+                {
+                    "City": "BOS",
+                    "CityName": "波士頓-麻塞諸塞州",
+                    "CityEName": "BOSTON MA"
+                },
+                {
+                    "City": "FAI",
+                    "CityName": "FAIRBANKS-阿拉斯加州",
+                    "CityEName": "FAIRBANKS AK"
+                },
+                {
+                    "City": "KOA",
+                    "CityName": "KAILUA KONA-夏威夷州",
+                    "CityEName": "KAILUA KONA HI"
+                },
+                {
+                    "City": "MIA",
+                    "CityName": "邁阿密-佛州",
+                    "CityEName": "MIAMI FL"
+                },
+                {
+                    "City": "MSY",
+                    "CityName": "紐奧良-路易斯安那州",
+                    "CityEName": "NEW ORLEANS LA"
+                },
+                {
+                    "City": "ORL",
+                    "CityName": "奧蘭多-佛州",
+                    "CityEName": "ORLANDO FL"
+                },
+                {
+                    "City": "PHL",
+                    "CityName": "費城-賓州",
+                    "CityEName": "PHILADELPHIA PA"
+                },
+                {
+                    "City": "SPN",
+                    "CityName": "塞班",
+                    "CityEName": "SAIPAN"
+                }
+            ]
+        },
+        {
+            "Country": "VN",
+            "CityList": [
+                {
+                    "City": "SGN",
+                    "CityName": "胡志明市",
+                    "CityEName": "HO CHI MINH"
+                },
+                {
+                    "City": "HAN",
+                    "CityName": "河內",
+                    "CityEName": "HANOI"
+                },
+                {
+                    "City": "DAD",
+                    "CityName": "峴港",
+                    "CityEName": "DA NANG"
+                },
+                {
+                    "City": "GCE",
+                    "CityName": "會安",
+                    "CityEName": "HOI AN"
+                },
+                {
+                    "City": "HAL",
+                    "CityName": "下龍灣",
+                    "CityEName": "HALONG"
+                },
+                {
+                    "City": "HUI",
+                    "CityName": "順化",
+                    "CityEName": "HUE"
+                },
+                {
+                    "City": "NHA",
+                    "CityName": "芽莊",
+                    "CityEName": "NHA TRANG"
+                },
+                {
+                    "City": "PQC",
+                    "CityName": "富國島",
+                    "CityEName": "PHU QUOC"
+                }
+            ]
+        }
+    ]
+}

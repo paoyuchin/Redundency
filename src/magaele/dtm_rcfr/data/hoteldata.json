@@ -1,0 +1,2946 @@
+[
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "紐約-紐約州(NEW YORK NY) NYC-美國",
+        "value": "out_1_PCT_1_NYC_US",
+        "showText": "紐約-紐約州(NEW YORK NY) NYC-美國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "洛杉磯-加州(LOS ANGELES CA) LAX-美國",
+        "value": "out_1_PCT_1_LAX_US",
+        "showText": "洛杉磯-加州(LOS ANGELES CA) LAX-美國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "舊金山-加州(SAN FRANCISCO CA) SFO-美國",
+        "value": "out_1_PCT_1_SFO_US",
+        "showText": "舊金山-加州(SAN FRANCISCO CA) SFO-美國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "拉斯維加斯-內華達州(LAS VEGAS NV) LAS-美國",
+        "value": "out_1_PCT_1_LAS_US",
+        "showText": "拉斯維加斯-內華達州(LAS VEGAS NV) LAS-美國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "壇香山-夏威夷州(HONOLULU) HNL-美國",
+        "value": "out_1_PCT_1_HNL_US",
+        "showText": "壇香山-夏威夷州(HONOLULU) HNL-美國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "關島(GUAM) GUM-美國",
+        "value": "out_1_PCT_1_GUM_US",
+        "showText": "關島(GUAM) GUM-美國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "溫哥華(VANCOUVER) YVR-加拿大",
+        "value": "out_1_PCT_1_YVR_CA",
+        "showText": "溫哥華(VANCOUVER) YVR-加拿大"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "波士頓-麻塞諸塞州(BOSTON MA) BOS-美國",
+        "value": "out_1_PCT_1_BOS_US",
+        "showText": "波士頓-麻塞諸塞州(BOSTON MA) BOS-美國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "西雅圖-華盛頓州(SEATTLE TACOMA) SEA-美國",
+        "value": "out_1_PCT_1_SEA_US",
+        "showText": "西雅圖-華盛頓州(SEATTLE TACOMA) SEA-美國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "芝加哥-伊利諾州(CHICAGO IL) CHI-美國",
+        "value": "out_1_PCT_1_CHI_US",
+        "showText": "芝加哥-伊利諾州(CHICAGO IL) CHI-美國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "多倫多(TORONTO) YYZ-加拿大",
+        "value": "out_1_PCT_1_YYZ_CA",
+        "showText": "多倫多(TORONTO) YYZ-加拿大"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "奧蘭多-佛州(ORLANDO FL) ORL-美國",
+        "value": "out_1_PCT_1_ORL_US",
+        "showText": "奧蘭多-佛州(ORLANDO FL) ORL-美國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "聖地牙哥-加州(SAN DIEGO CA) SAN-美國",
+        "value": "out_1_PCT_1_SAN_US",
+        "showText": "聖地牙哥-加州(SAN DIEGO CA) SAN-美國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "安納漢-加州迪士尼(ANAHEIM CA) ANA-美國",
+        "value": "out_1_PCT_1_ANA_US",
+        "showText": "安納漢-加州迪士尼(ANAHEIM CA) ANA-美國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "聖荷西-加州(SAN JOSE CA) SJC-美國",
+        "value": "out_1_PCT_1_SJC_US",
+        "showText": "聖荷西-加州(SAN JOSE CA) SJC-美國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "露易絲湖(LAKE LOUISE AB) YLL-加拿大",
+        "value": "out_1_PCT_1_YLL_CA",
+        "showText": "露易絲湖(LAKE LOUISE AB) YLL-加拿大"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "華盛頓(WASHINGTON DC) WAS-美國",
+        "value": "out_1_PCT_1_WAS_US",
+        "showText": "華盛頓(WASHINGTON DC) WAS-美國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "邁阿密-佛州(MIAMI FL) MIA-美國",
+        "value": "out_1_PCT_1_MIA_US",
+        "showText": "邁阿密-佛州(MIAMI FL) MIA-美國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "KAILUA KONA-夏威夷州(KAILUA KONA HI) KOA-美國",
+        "value": "out_1_PCT_1_KOA_US",
+        "showText": "KAILUA KONA-夏威夷州(KAILUA KONA HI) KOA-美國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門城市",
+        "vCity": "班夫(BANFF) YBA-加拿大",
+        "value": "out_1_PCT_1_YBA_CA",
+        "showText": "班夫(BANFF) YBA-加拿大"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門區域",
+        "vCity": "梅西百貨、聯合廣場-舊金山-加州(SAN FRANCISCO CA) SFO",
+        "value": "out_1_PCTZ_1_SFO_US_01",
+        "showText": "梅西百貨、聯合廣場-舊金山-加州(SAN FRANCISCO CA) SFO"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門區域",
+        "vCity": "時代廣場、賓州車站周-紐約-紐約州(NEW YORK NY) NYC",
+        "value": "out_1_PCTZ_1_NYC_US_01",
+        "showText": "時代廣場、賓州車站周-紐約-紐約州(NEW YORK NY) NYC"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門區域",
+        "vCity": "杜夢灣(Tumon)-關島(GUAM) GUM",
+        "value": "out_1_PCTZ_1_GUM_US_01",
+        "showText": "杜夢灣(Tumon)-關島(GUAM) GUM"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門區域",
+        "vCity": "市區-溫哥華(VANCOUVER) YVR",
+        "value": "out_1_PCTZ_1_YVR_CA_01",
+        "showText": "市區-溫哥華(VANCOUVER) YVR"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門區域",
+        "vCity": "檀香山市、威基基海灘-壇香山-夏威夷州(HONOLULU) HNL",
+        "value": "out_1_PCTZ_1_HNL_US_01",
+        "showText": "檀香山市、威基基海灘-壇香山-夏威夷州(HONOLULU) HNL"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門區域",
+        "vCity": "洛杉磯機場周圍-洛杉磯-加州(LOS ANGELES CA) LAX",
+        "value": "out_1_PCTZ_1_LAX_US_06",
+        "showText": "洛杉磯機場周圍-洛杉磯-加州(LOS ANGELES CA) LAX"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門區域",
+        "vCity": "甘迺迪機場、牙買加區-紐約-紐約州(NEW YORK NY) NYC",
+        "value": "out_1_PCTZ_1_NYC_US_10",
+        "showText": "甘迺迪機場、牙買加區-紐約-紐約州(NEW YORK NY) NYC"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "美洲",
+        "vCountry": "熱門區域",
+        "vCity": "中央公園、大都會博物-紐約-紐約州(NEW YORK NY) NYC",
+        "value": "out_1_PCTZ_1_NYC_US_14",
+        "showText": "中央公園、大都會博物-紐約-紐約州(NEW YORK NY) NYC"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "雪梨(SYDNEY) SYD-澳洲",
+        "value": "out_2_PCT_2_SYD_AU",
+        "showText": "雪梨(SYDNEY) SYD-澳洲"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "墨爾本(MELBOURNE) MEL-澳洲",
+        "value": "out_2_PCT_2_MEL_AU",
+        "showText": "墨爾本(MELBOURNE) MEL-澳洲"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "布里斯班(BRISBANE) BNE-澳洲",
+        "value": "out_2_PCT_2_BNE_AU",
+        "showText": "布里斯班(BRISBANE) BNE-澳洲"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "科羅(KOROR) ROR-帛琉",
+        "value": "out_2_PCT_2_ROR_PW",
+        "showText": "科羅(KOROR) ROR-帛琉"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "奧克蘭(AUCKLAND) AKL-紐西蘭",
+        "value": "out_2_PCT_2_AKL_NZ",
+        "showText": "奧克蘭(AUCKLAND) AKL-紐西蘭"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "黃金海岸(GOLD COAST) OOL-澳洲",
+        "value": "out_2_PCT_2_OOL_AU",
+        "showText": "黃金海岸(GOLD COAST) OOL-澳洲"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "凱恩斯(CAIRNS) CNS-澳洲",
+        "value": "out_2_PCT_2_CNS_AU",
+        "showText": "凱恩斯(CAIRNS) CNS-澳洲"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "皇后鎮(QUEENSTOWN) ZQN-紐西蘭",
+        "value": "out_2_PCT_2_ZQN_NZ",
+        "showText": "皇后鎮(QUEENSTOWN) ZQN-紐西蘭"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "基督城(CHRISTCHURCH) CHC-紐西蘭",
+        "value": "out_2_PCT_2_CHC_NZ",
+        "showText": "基督城(CHRISTCHURCH) CHC-紐西蘭"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "帛琉() PWL-帛琉",
+        "value": "out_2_PCT_2_PWL_PW",
+        "showText": "帛琉() PWL-帛琉"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "柏斯(PERTH) PER-澳洲",
+        "value": "out_2_PCT_2_PER_AU",
+        "showText": "柏斯(PERTH) PER-澳洲"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "藍山(BLUE MOUNTAIN) BMT-澳洲",
+        "value": "out_2_PCT_2_BMT_AU",
+        "showText": "藍山(BLUE MOUNTAIN) BMT-澳洲"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "斐濟() FIJ-斐濟",
+        "value": "out_2_PCT_2_FIJ_FJ",
+        "showText": "斐濟() FIJ-斐濟"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "阿德雷德(ADELAIDE) ADL-澳洲",
+        "value": "out_2_PCT_2_ADL_AU",
+        "showText": "阿德雷德(ADELAIDE) ADL-澳洲"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "庫克山(MT.COOK) GTN-紐西蘭",
+        "value": "out_2_PCT_2_GTN_NZ",
+        "showText": "庫克山(MT.COOK) GTN-紐西蘭"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "第卡波(TEKAPO) TKP-紐西蘭",
+        "value": "out_2_PCT_2_TKP_NZ",
+        "showText": "第卡波(TEKAPO) TKP-紐西蘭"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "陶波湖(TAUPO) TPO-紐西蘭",
+        "value": "out_2_PCT_2_TPO_NZ",
+        "showText": "陶波湖(TAUPO) TPO-紐西蘭"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "達爾文(DARWIN) DRW-澳洲",
+        "value": "out_2_PCT_2_DRW_AU",
+        "showText": "達爾文(DARWIN) DRW-澳洲"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "BORA BORA-大溪地",
+        "value": "out_2_PCT_2_BOB_PF",
+        "showText": "BORA BORA-大溪地"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門城市",
+        "vCity": "羅吐魯阿(ROTOROA) ROT-紐西蘭",
+        "value": "out_2_PCT_2_ROT_NZ",
+        "showText": "羅吐魯阿(ROTOROA) ROT-紐西蘭"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門區域",
+        "vCity": "市中心區-雪梨(SYDNEY) SYD-澳洲",
+        "value": "out_2_PCTZ_2_SYD_AU_01",
+        "showText": "市中心區-雪梨(SYDNEY) SYD-澳洲"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門區域",
+        "vCity": "市中心區-墨爾本(MELBOURNE) MEL-澳洲",
+        "value": "out_2_PCTZ_2_MEL_AU_01",
+        "showText": "市中心區-墨爾本(MELBOURNE) MEL-澳洲"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門區域",
+        "vCity": "達令港區-雪梨(SYDNEY) SYD-澳洲",
+        "value": "out_2_PCTZ_2_SYD_AU_02",
+        "showText": "達令港區-雪梨(SYDNEY) SYD-澳洲"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門區域",
+        "vCity": "市中心區-布里斯班(BRISBANE) BNE-澳洲",
+        "value": "out_2_PCTZ_2_BNE_AU_01",
+        "showText": "市中心區-布里斯班(BRISBANE) BNE-澳洲"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門區域",
+        "vCity": "衝浪者天堂-黃金海岸(GOLD COAST) OOL-澳洲",
+        "value": "out_2_PCTZ_2_OOL_AU_01",
+        "showText": "衝浪者天堂-黃金海岸(GOLD COAST) OOL-澳洲"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門區域",
+        "vCity": "帛琉-科羅(KOROR) ROR-帛琉",
+        "value": "out_2_PCTZ_2_ROR_PW_01",
+        "showText": "帛琉-科羅(KOROR) ROR-帛琉"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門區域",
+        "vCity": "市中心區-奧克蘭(AUCKLAND) AKL-紐西蘭",
+        "value": "out_2_PCTZ_2_AKL_NZ_01",
+        "showText": "市中心區-奧克蘭(AUCKLAND) AKL-紐西蘭"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大洋洲",
+        "vCountry": "熱門區域",
+        "vCity": "南布里斯本-布里斯班(BRISBANE) BNE-澳洲",
+        "value": "out_2_PCTZ_2_BNE_AU_02",
+        "showText": "南布里斯本-布里斯班(BRISBANE) BNE-澳洲"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "倫敦(LONDON) LON-英國",
+        "value": "out_3_PCT_3_LON_UK",
+        "showText": "倫敦(LONDON) LON-英國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "巴黎(PARIS) PAR-法國",
+        "value": "out_3_PCT_3_PAR_FR",
+        "showText": "巴黎(PARIS) PAR-法國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "慕尼黑-德國",
+        "value": "out_3_PCT_3_MUC_DE",
+        "showText": "慕尼黑-德國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "阿姆斯特丹(AMSTERDAM) AMS-荷蘭",
+        "value": "out_3_PCT_3_AMS_NL",
+        "showText": "阿姆斯特丹(AMSTERDAM) AMS-荷蘭"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "法蘭克福(FRANKFURT) FRA-德國",
+        "value": "out_3_PCT_3_FRA_DE",
+        "showText": "法蘭克福(FRANKFURT) FRA-德國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "維也納(VIENNA) VIE-奧地利",
+        "value": "out_3_PCT_3_VIE_AT",
+        "showText": "維也納(VIENNA) VIE-奧地利"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "布拉格(PRAGUE) PRG-捷克",
+        "value": "out_3_PCT_3_PRG_CZ",
+        "showText": "布拉格(PRAGUE) PRG-捷克"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "米蘭(MILAN) MIL-義大利",
+        "value": "out_3_PCT_3_MIL_IT",
+        "showText": "米蘭(MILAN) MIL-義大利"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "柏林(BERLIN) BER-德國",
+        "value": "out_3_PCT_3_BER_DE",
+        "showText": "柏林(BERLIN) BER-德國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "羅馬(ROME) ROM-義大利",
+        "value": "out_3_PCT_3_ROM_IT",
+        "showText": "羅馬(ROME) ROM-義大利"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "巴塞隆納(BARCELONA) BCN-西班牙",
+        "value": "out_3_PCT_3_BCN_ES",
+        "showText": "巴塞隆納(BARCELONA) BCN-西班牙"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "科隆(COLOGNE) CGN-德國",
+        "value": "out_3_PCT_3_CGN_DE",
+        "showText": "科隆(COLOGNE) CGN-德國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "馬德里(MADRID) MAD-西班牙",
+        "value": "out_3_PCT_3_MAD_ES",
+        "showText": "馬德里(MADRID) MAD-西班牙"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "斯德哥爾摩(STOCKHOLM) STO-瑞典",
+        "value": "out_3_PCT_3_STO_SE",
+        "showText": "斯德哥爾摩(STOCKHOLM) STO-瑞典"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "威尼斯(VENICE) VCE-義大利",
+        "value": "out_3_PCT_3_VCE_IT",
+        "showText": "威尼斯(VENICE) VCE-義大利"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "杜塞道夫(DUSSELDORF) DUS-德國",
+        "value": "out_3_PCT_3_DUS_DE",
+        "showText": "杜塞道夫(DUSSELDORF) DUS-德國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "德勒斯登(DRESDEN) DRS-德國",
+        "value": "out_3_PCT_3_DRS_DE",
+        "showText": "德勒斯登(DRESDEN) DRS-德國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "薩爾斯堡(SALZBURG) SZG-奧地利",
+        "value": "out_3_PCT_3_SZG_AT",
+        "showText": "薩爾斯堡(SALZBURG) SZG-奧地利"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "雅典(ATHENS) ATH-希臘",
+        "value": "out_3_PCT_3_ATH_GR",
+        "showText": "雅典(ATHENS) ATH-希臘"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門城市",
+        "vCity": "莫斯科(MOSCOW) MOW-俄羅斯",
+        "value": "out_3_PCT_3_MOW_RU",
+        "showText": "莫斯科(MOSCOW) MOW-俄羅斯"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門區域",
+        "vCity": "中央車站-慕尼黑(MUNICH) MUC-德國",
+        "value": "out_3_PCTZ_3_MUC_DE_06",
+        "showText": "中央車站-慕尼黑(MUNICH) MUC-德國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門區域",
+        "vCity": "1區◆羅浮宮、杜勒麗-巴黎(PARIS) PAR-法國",
+        "value": "out_3_PCTZ_3_PAR_FR_01",
+        "showText": "1區◆羅浮宮、杜勒麗-巴黎(PARIS) PAR-法國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門區域",
+        "vCity": "10區◆巴黎北站-巴黎(PARIS) PAR-法國",
+        "value": "out_3_PCTZ_3_PAR_FR_10",
+        "showText": "10區◆巴黎北站-巴黎(PARIS) PAR-法國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門區域",
+        "vCity": "帕丁頓-倫敦(LONDON) LON-英國",
+        "value": "out_3_PCTZ_3_LON_UK_02",
+        "showText": "帕丁頓-倫敦(LONDON) LON-英國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門區域",
+        "vCity": "1區◆舊城區-布拉格-捷克",
+        "value": "out_3_PCTZ_3_PRG_CZ_01",
+        "showText": "1區◆舊城區-布拉格-捷克"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門區域",
+        "vCity": "8區◆香榭大道-巴黎(PARIS) PAR-法國",
+        "value": "out_3_PCTZ_3_PAR_FR_08",
+        "showText": "8區◆香榭大道-巴黎(PARIS) PAR-法國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門區域",
+        "vCity": "中央車站-德勒斯登(DRESDEN) DRS-德國",
+        "value": "out_3_PCTZ_3_DRS_DE_04",
+        "showText": "中央車站-德勒斯登(DRESDEN) DRS-德國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "歐洲",
+        "vCountry": "熱門區域",
+        "vCity": "9區◆歌劇院區-巴黎(PARIS) PAR-法國",
+        "value": "out_3_PCTZ_3_PAR_FR_09",
+        "showText": "9區◆歌劇院區-巴黎(PARIS) PAR-法國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "杜拜(DUBAI) DXB-阿拉伯聯合大公國",
+        "value": "out_4_PCT_4_DXB_AE",
+        "showText": "杜拜(DUBAI) DXB-阿拉伯聯合大公國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "馬爾地夫() MDV-馬爾地夫",
+        "value": "out_4_PCT_4_MDV_MV",
+        "showText": "馬爾地夫() MDV-馬爾地夫"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "德里(DELHI) DEL-印度",
+        "value": "out_4_PCT_4_DEL_IN",
+        "showText": "德里(DELHI) DEL-印度"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "伊斯坦堡(ISTANBUL) IST-土耳其",
+        "value": "out_4_PCT_4_IST_TR",
+        "showText": "伊斯坦堡(ISTANBUL) IST-土耳其"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "孟買(MUMBAI(BOMBAY)) BOM-印度",
+        "value": "out_4_PCT_4_BOM_IN",
+        "showText": "孟買(MUMBAI(BOMBAY)) BOM-印度"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "馬列(MALE) MLE-馬爾地夫",
+        "value": "out_4_PCT_4_MLE_MV",
+        "showText": "馬列(MALE) MLE-馬爾地夫"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "阿布達比(ABU DHABI) AUH-阿拉伯聯合大公國",
+        "value": "out_4_PCT_4_AUH_AE",
+        "showText": "阿布達比(ABU DHABI) AUH-阿拉伯聯合大公國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "可倫坡(COLOMBO) CMB-斯里蘭卡",
+        "value": "out_4_PCT_4_CMB_LK",
+        "showText": "可倫坡(COLOMBO) CMB-斯里蘭卡"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "EILAT() ETH-以色列",
+        "value": "out_4_PCT_4_ETH_IL",
+        "showText": "EILAT() ETH-以色列"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "BANGALORE() BLR-印度",
+        "value": "out_4_PCT_4_BLR_IN",
+        "showText": "BANGALORE() BLR-印度"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "模里西斯(MAURITIUS) MRU-模里西斯",
+        "value": "out_4_PCT_4_MRU_MU",
+        "showText": "模里西斯(MAURITIUS) MRU-模里西斯"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "加德滿都(KATHMANDU) KTM-尼泊爾",
+        "value": "out_4_PCT_4_KTM_NP",
+        "showText": "加德滿都(KATHMANDU) KTM-尼泊爾"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "開羅(CAIRO) CAI-埃及",
+        "value": "out_4_PCT_4_CAI_EG",
+        "showText": "開羅(CAIRO) CAI-埃及"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "安卡拉(ANKARA) ANK-土耳其",
+        "value": "out_4_PCT_4_ANK_TR",
+        "showText": "安卡拉(ANKARA) ANK-土耳其"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "開普敦(CAPE TOWN) CPT-南非",
+        "value": "out_4_PCT_4_CPT_ZA",
+        "showText": "開普敦(CAPE TOWN) CPT-南非"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "奈洛比(NAIROBI) NBO-肯亞",
+        "value": "out_4_PCT_4_NBO_KE",
+        "showText": "奈洛比(NAIROBI) NBO-肯亞"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "庫薩達西(KUSADASI KUSADASI) KUS-土耳其",
+        "value": "out_4_PCT_4_KUS_TR",
+        "showText": "庫薩達西(KUSADASI KUSADASI) KUS-土耳其"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "馬拉喀什(MARRAKECH) RAK-摩洛哥",
+        "value": "out_4_PCT_4_RAK_MA",
+        "showText": "馬拉喀什(MARRAKECH) RAK-摩洛哥"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "約翰尼斯堡(JOHANNESBURG) JNB-南非",
+        "value": "out_4_PCT_4_JNB_ZA",
+        "showText": "約翰尼斯堡(JOHANNESBURG) JNB-南非"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門城市",
+        "vCity": "捷普(JAIPUR) JAI-印度",
+        "value": "out_4_PCT_4_JAI_IN",
+        "showText": "捷普(JAIPUR) JAI-印度"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門區域",
+        "vCity": "馬列-馬爾地夫() MDV-馬爾地夫",
+        "value": "out_4_PCTZ_4_MDV_MV_01",
+        "showText": "馬列-馬爾地夫() MDV-馬爾地夫"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門區域",
+        "vCity": "市區-杜拜(DUBAI) DXB-阿拉伯聯合大公國",
+        "value": "out_4_PCTZ_4_DXB_AE_01",
+        "showText": "市區-杜拜(DUBAI) DXB-阿拉伯聯合大公國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門區域",
+        "vCity": "新城-德里(DELHI) DEL-印度",
+        "value": "out_4_PCTZ_4_DEL_IN_01",
+        "showText": "新城-德里(DELHI) DEL-印度"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門區域",
+        "vCity": "海灘區-杜拜(DUBAI) DXB-阿拉伯聯合大公國",
+        "value": "out_4_PCTZ_4_DXB_AE_02",
+        "showText": "海灘區-杜拜(DUBAI) DXB-阿拉伯聯合大公國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門區域",
+        "vCity": "北馬列環礁-馬爾地夫() MDV-馬爾地夫",
+        "value": "out_4_PCTZ_4_MDV_MV_02",
+        "showText": "北馬列環礁-馬爾地夫() MDV-馬爾地夫"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門區域",
+        "vCity": "柏迪拜-杜拜(DUBAI) DXB-阿拉伯聯合大公國",
+        "value": "out_4_PCTZ_4_DXB_AE_03",
+        "showText": "柏迪拜-杜拜(DUBAI) DXB-阿拉伯聯合大公國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門區域",
+        "vCity": "市中心-BANGALORE() BLR-印度",
+        "value": "out_4_PCTZ_4_BLR_IN_01",
+        "showText": "市中心-BANGALORE() BLR-印度"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "亞非",
+        "vCountry": "熱門區域",
+        "vCity": "老城區-伊斯坦堡(ISTANBUL) IST-土耳其",
+        "value": "out_4_PCTZ_4_IST_TR_01",
+        "showText": "老城區-伊斯坦堡(ISTANBUL) IST-土耳其"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "香港(HONG KONG) HKG-中國大陸",
+        "value": "out_5_PCT_5_HKG_CN",
+        "showText": "香港(HONG KONG) HKG-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "澳門(MACAU) MFM-中國大陸",
+        "value": "out_5_PCT_5_MFM_CN",
+        "showText": "澳門(MACAU) MFM-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "上海(SHANGHAI) SHA-中國大陸",
+        "value": "out_5_PCT_5_SHA_CN",
+        "showText": "上海(SHANGHAI) SHA-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "北京(BEIJING) PEK-中國大陸",
+        "value": "out_5_PCT_5_PEK_CN",
+        "showText": "北京(BEIJING) PEK-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "珠海-廣東省(ZHUHAI) ZUH-中國大陸",
+        "value": "out_5_PCT_5_ZUH_CN",
+        "showText": "珠海-廣東省(ZHUHAI) ZUH-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "廈門-福建省(XIAMEN) XMN-中國大陸",
+        "value": "out_5_PCT_5_XMN_CN",
+        "showText": "廈門-福建省(XIAMEN) XMN-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "杭州-浙江省(HANGZHOU) HGH-中國大陸",
+        "value": "out_5_PCT_5_HGH_CN",
+        "showText": "杭州-浙江省(HANGZHOU) HGH-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "深圳-廣東省(SHENZHEN) SZX-中國大陸",
+        "value": "out_5_PCT_5_SZX_CN",
+        "showText": "深圳-廣東省(SHENZHEN) SZX-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "廣州-廣東省(GUANGZHOU) CAN-中國大陸",
+        "value": "out_5_PCT_5_CAN_CN",
+        "showText": "廣州-廣東省(GUANGZHOU) CAN-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "蘇州-江蘇省(SUZHOU) SUZ-中國大陸",
+        "value": "out_5_PCT_5_SUZ_CN",
+        "showText": "蘇州-江蘇省(SUZHOU) SUZ-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "三亞-海南省(SANYA) SYX-中國大陸",
+        "value": "out_5_PCT_5_SYX_CN",
+        "showText": "三亞-海南省(SANYA) SYX-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "南京-江蘇省(NANJING) NKG-中國大陸",
+        "value": "out_5_PCT_5_NKG_CN",
+        "showText": "南京-江蘇省(NANJING) NKG-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "成都-四川省(CHENGDU) CTU-中國大陸",
+        "value": "out_5_PCT_5_CTU_CN",
+        "showText": "成都-四川省(CHENGDU) CTU-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "福州-福建省(FUZHOU) FOC-中國大陸",
+        "value": "out_5_PCT_5_FOC_CN",
+        "showText": "福州-福建省(FUZHOU) FOC-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "西安-陜西省(XIAN) SIA-中國大陸",
+        "value": "out_5_PCT_5_SIA_CN",
+        "showText": "西安-陜西省(XIAN) SIA-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "青島-山東省(QINGDAO) TAO-中國大陸",
+        "value": "out_5_PCT_5_TAO_CN",
+        "showText": "青島-山東省(QINGDAO) TAO-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "武漢-湖北省(WUHAN) WUH-中國大陸",
+        "value": "out_5_PCT_5_WUH_CN",
+        "showText": "武漢-湖北省(WUHAN) WUH-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "天津-河北省(TIANJIN) TSN-中國大陸",
+        "value": "out_5_PCT_5_TSN_CN",
+        "showText": "天津-河北省(TIANJIN) TSN-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "寧波-浙江省(NINGBO) NGB-中國大陸",
+        "value": "out_5_PCT_5_NGB_CN",
+        "showText": "寧波-浙江省(NINGBO) NGB-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門城市",
+        "vCity": "昆明-雲南省(KUNMING) KMG-中國大陸",
+        "value": "out_5_PCT_5_KMG_CN",
+        "showText": "昆明-雲南省(KUNMING) KMG-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門區域",
+        "vCity": "尖沙咀-香港(HONG KONG) HKG-中國大陸",
+        "value": "out_5_PCTZ_5_HKG_CN_18",
+        "showText": "尖沙咀-香港(HONG KONG) HKG-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門區域",
+        "vCity": "路氹-澳門(MACAU) MFM-中國大陸",
+        "value": "out_5_PCTZ_5_MFM_CN_09",
+        "showText": "路氹-澳門(MACAU) MFM-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門區域",
+        "vCity": "銅鑼灣-香港(HONG KONG) HKG-中國大陸",
+        "value": "out_5_PCTZ_5_HKG_CN_05",
+        "showText": "銅鑼灣-香港(HONG KONG) HKG-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門區域",
+        "vCity": "中環/金鐘-香港(HONG KONG) HKG-中國大陸",
+        "value": "out_5_PCTZ_5_HKG_CN_02",
+        "showText": "中環/金鐘-香港(HONG KONG) HKG-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門區域",
+        "vCity": "佐敦-香港(HONG KONG) HKG-中國大陸",
+        "value": "out_5_PCTZ_5_HKG_CN_17",
+        "showText": "佐敦-香港(HONG KONG) HKG-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門區域",
+        "vCity": "西環/上環-香港(HONG KONG) HKG-中國大陸",
+        "value": "out_5_PCTZ_5_HKG_CN_08",
+        "showText": "西環/上環-香港(HONG KONG) HKG-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門區域",
+        "vCity": "旺角/太子-香港(HONG KONG) HKG-中國大陸",
+        "value": "out_5_PCTZ_5_HKG_CN_15",
+        "showText": "旺角/太子-香港(HONG KONG) HKG-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "大陸港澳",
+        "vCountry": "熱門區域",
+        "vCity": "灣仔-香港(HONG KONG) HKG-中國大陸",
+        "value": "out_5_PCTZ_5_HKG_CN_04",
+        "showText": "灣仔-香港(HONG KONG) HKG-中國大陸"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "東京(TOKYO) TYO-日本",
+        "value": "out_6_PCT_6_TYO_JP",
+        "showText": "東京(TOKYO) TYO-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "大阪(OSAKA) OSA-日本",
+        "value": "out_6_PCT_6_OSA_JP",
+        "showText": "大阪(OSAKA) OSA-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "沖繩(OKINAWA) OKA-日本",
+        "value": "out_6_PCT_6_OKA_JP",
+        "showText": "沖繩(OKINAWA) OKA-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "首爾(SEOUL) SEL-韓國",
+        "value": "out_6_PCT_6_SEL_KR",
+        "showText": "首爾(SEOUL) SEL-韓國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "京都(KYOTO) KYO-日本",
+        "value": "out_6_PCT_6_KYO_JP",
+        "showText": "京都(KYOTO) KYO-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "福岡市-福岡縣(FUKUOKA) FUK-日本",
+        "value": "out_6_PCT_6_FUK_JP",
+        "showText": "福岡市-福岡縣(FUKUOKA) FUK-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "札幌-北海道(SAPPORO) SPK-日本",
+        "value": "out_6_PCT_6_SPK_JP",
+        "showText": "札幌-北海道(SAPPORO) SPK-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "名古屋-愛知縣(NAGOYA) NGO-日本",
+        "value": "out_6_PCT_6_NGO_JP",
+        "showText": "名古屋-愛知縣(NAGOYA) NGO-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "輕井澤-長野縣(KARUIZAWA) KAL-日本",
+        "value": "out_6_PCT_6_KAL_JP",
+        "showText": "輕井澤-長野縣(KARUIZAWA) KAL-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "函館-北海道(HAKODATE) HKD-日本",
+        "value": "out_6_PCT_6_HKD_JP",
+        "showText": "函館-北海道(HAKODATE) HKD-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "釜山(PUSAN) PUS-韓國",
+        "value": "out_6_PCT_6_PUS_KR",
+        "showText": "釜山(PUSAN) PUS-韓國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "神戶市-兵庫縣(KOBE) KOB-日本",
+        "value": "out_6_PCT_6_KOB_JP",
+        "showText": "神戶市-兵庫縣(KOBE) KOB-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "箱根-神奈川縣(HAKONE) JHA-日本",
+        "value": "out_6_PCT_6_JHA_JP",
+        "showText": "箱根-神奈川縣(HAKONE) JHA-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "河口湖-山梨縣(KAWAGUCHIKO) FUC-日本",
+        "value": "out_6_PCT_6_FUC_JP",
+        "showText": "河口湖-山梨縣(KAWAGUCHIKO) FUC-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "橫濱-神奈川縣(YOKOHAMA) YOK-日本",
+        "value": "out_6_PCT_6_YOK_JP",
+        "showText": "橫濱-神奈川縣(YOKOHAMA) YOK-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "登別-北海道(NOBORIBETSU) NOB-日本",
+        "value": "out_6_PCT_6_NOB_JP",
+        "showText": "登別-北海道(NOBORIBETSU) NOB-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "仁川(INCHEON) ICN-韓國",
+        "value": "out_6_PCT_6_ICN_KR",
+        "showText": "仁川(INCHEON) ICN-韓國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "金澤市-石川縣(KANAZAWA) KZA-日本",
+        "value": "out_6_PCT_6_KZA_JP",
+        "showText": "金澤市-石川縣(KANAZAWA) KZA-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "洞爺湖-北海道(TOYAKO) TJH-日本",
+        "value": "out_6_PCT_6_TJH_JP",
+        "showText": "洞爺湖-北海道(TOYAKO) TJH-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門城市",
+        "vCity": "廣島市-廣島縣(HIROSHIMA SHI) HIJ-日本",
+        "value": "out_6_PCT_6_HIJ_JP",
+        "showText": "廣島市-廣島縣(HIROSHIMA SHI) HIJ-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門區域",
+        "vCity": "新宿-東京(TOKYO) TYO-日本",
+        "value": "out_6_PCTZ_6_TYO_JP_04",
+        "showText": "新宿-東京(TOKYO) TYO-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門區域",
+        "vCity": "道頓堀、難波-大阪(OSAKA) OSA-日本",
+        "value": "out_6_PCTZ_6_OSA_JP_08",
+        "showText": "道頓堀、難波-大阪(OSAKA) OSA-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門區域",
+        "vCity": "上野御徒町-東京(TOKYO) TYO-日本",
+        "value": "out_6_PCTZ_6_TYO_JP_24",
+        "showText": "上野御徒町-東京(TOKYO) TYO-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門區域",
+        "vCity": "東京-東京(TOKYO) TYO-日本",
+        "value": "out_6_PCTZ_6_TYO_JP_20",
+        "showText": "東京-東京(TOKYO) TYO-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門區域",
+        "vCity": "淺草-東京(TOKYO) TYO-日本",
+        "value": "out_6_PCTZ_6_TYO_JP_10",
+        "showText": "淺草-東京(TOKYO) TYO-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門區域",
+        "vCity": "那霸地區-沖繩(OKINAWA) OKA-日本",
+        "value": "out_6_PCTZ_6_OKA_JP_01",
+        "showText": "那霸地區-沖繩(OKINAWA) OKA-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門區域",
+        "vCity": "心齋橋-大阪(OSAKA) OSA-日本",
+        "value": "out_6_PCTZ_6_OSA_JP_06",
+        "showText": "心齋橋-大阪(OSAKA) OSA-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東北亞",
+        "vCountry": "熱門區域",
+        "vCity": "池袋-東京(TOKYO) TYO-日本",
+        "value": "out_6_PCTZ_6_TYO_JP_05",
+        "showText": "池袋-東京(TOKYO) TYO-日本"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "新加坡(SINGAPORE) SIN-新加坡",
+        "value": "out_7_PCT_7_SIN_SG",
+        "showText": "新加坡(SINGAPORE) SIN-新加坡"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "曼谷(BANGKOK) BKK-泰國",
+        "value": "out_7_PCT_7_BKK_TH",
+        "showText": "曼谷(BANGKOK) BKK-泰國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "峇里島(BALI) DPS-印尼",
+        "value": "out_7_PCT_7_DPS_ID",
+        "showText": "峇里島(BALI) DPS-印尼"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "華欣(HUA-HIN) HHQ-泰國",
+        "value": "out_7_PCT_7_HHQ_TH",
+        "showText": "華欣(HUA-HIN) HHQ-泰國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "吉隆坡(Kuala Lumpur) KUL-馬來西亞",
+        "value": "out_7_PCT_7_KUL_MY",
+        "showText": "吉隆坡(Kuala Lumpur) KUL-馬來西亞"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "芭達雅(PATTAYA) PYX-泰國",
+        "value": "out_7_PCT_7_PYX_TH",
+        "showText": "芭達雅(PATTAYA) PYX-泰國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "蘇美島(KOH SAMUI) USM-泰國",
+        "value": "out_7_PCT_7_USM_TH",
+        "showText": "蘇美島(KOH SAMUI) USM-泰國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "沙巴(亞庇)(SABAH（KOTA KINABALU）) BKI-馬來西亞",
+        "value": "out_7_PCT_7_BKI_MY",
+        "showText": "沙巴(亞庇)(SABAH（KOTA KINABALU）) BKI-馬來西亞"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "胡志明市(HO CHI MINH) SGN-越南",
+        "value": "out_7_PCT_7_SGN_VN",
+        "showText": "胡志明市(HO CHI MINH) SGN-越南"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "馬尼拉(MANILA) MNL-菲律賓",
+        "value": "out_7_PCT_7_MNL_PH",
+        "showText": "馬尼拉(MANILA) MNL-菲律賓"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "宿霧(CEBU) CEB-菲律賓",
+        "value": "out_7_PCT_7_CEB_PH",
+        "showText": "宿霧(CEBU) CEB-菲律賓"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "長灘島(BORACAY) BOR-菲律賓",
+        "value": "out_7_PCT_7_BOR_PH",
+        "showText": "長灘島(BORACAY) BOR-菲律賓"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "清邁(CHIANG MAI) CNX-泰國",
+        "value": "out_7_PCT_7_CNX_TH",
+        "showText": "清邁(CHIANG MAI) CNX-泰國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "普吉島(PHUKET) HKT-泰國",
+        "value": "out_7_PCT_7_HKT_TH",
+        "showText": "普吉島(PHUKET) HKT-泰國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "SENTOSA(聖陶沙) SEN-新加坡",
+        "value": "out_7_PCT_7_SEN_SG",
+        "showText": "SENTOSA(聖陶沙) SEN-新加坡"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "河內(HANOI) HAN-越南",
+        "value": "out_7_PCT_7_HAN_VN",
+        "showText": "河內(HANOI) HAN-越南"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "雅加達(JAKARTA) JKT-印尼",
+        "value": "out_7_PCT_7_JKT_ID",
+        "showText": "雅加達(JAKARTA) JKT-印尼"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "柔佛州(新山)(JOHOR BAHRU) JHB-馬來西亞",
+        "value": "out_7_PCT_7_JHB_MY",
+        "showText": "柔佛州(新山)(JOHOR BAHRU) JHB-馬來西亞"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "檳城(PENANG) PEN-馬來西亞",
+        "value": "out_7_PCT_7_PEN_MY",
+        "showText": "檳城(PENANG) PEN-馬來西亞"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門城市",
+        "vCity": "薄荷島(BOHOL) BOH-菲律賓",
+        "value": "out_7_PCT_7_BOH_PH",
+        "showText": "薄荷島(BOHOL) BOH-菲律賓"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門區域",
+        "vCity": "蘇坤逸區-曼谷(BANGKOK) BKK-泰國",
+        "value": "out_7_PCTZ_7_BKK_TH_11",
+        "showText": "蘇坤逸區-曼谷(BANGKOK) BKK-泰國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門區域",
+        "vCity": "濱海行政區-新加坡(SINGAPORE) SIN-新加坡",
+        "value": "out_7_PCTZ_7_SIN_SG_10",
+        "showText": "濱海行政區-新加坡(SINGAPORE) SIN-新加坡"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門區域",
+        "vCity": "四面佛鬧區-曼谷(BANGKOK) BKK-泰國",
+        "value": "out_7_PCTZ_7_BKK_TH_03",
+        "showText": "四面佛鬧區-曼谷(BANGKOK) BKK-泰國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門區域",
+        "vCity": "烏節路地區-新加坡(SINGAPORE) SIN-新加坡",
+        "value": "out_7_PCTZ_7_SIN_SG_15",
+        "showText": "烏節路地區-新加坡(SINGAPORE) SIN-新加坡"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門區域",
+        "vCity": "牛車水地區-新加坡(SINGAPORE) SIN-新加坡",
+        "value": "out_7_PCTZ_7_SIN_SG_12",
+        "showText": "牛車水地區-新加坡(SINGAPORE) SIN-新加坡"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門區域",
+        "vCity": "聖陶沙地區-新加坡(SINGAPORE) SIN-新加坡",
+        "value": "out_7_PCTZ_7_SIN_SG_09",
+        "showText": "聖陶沙地區-新加坡(SINGAPORE) SIN-新加坡"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門區域",
+        "vCity": "湄南河畔區-曼谷(BANGKOK) BKK-泰國",
+        "value": "out_7_PCTZ_7_BKK_TH_10",
+        "showText": "湄南河畔區-曼谷(BANGKOK) BKK-泰國"
+    },
+    {
+        "inTaiwan": "國外",
+        "vLine": "東南亞",
+        "vCountry": "熱門區域",
+        "vCity": "席隆區-曼谷(BANGKOK) BKK-泰國",
+        "value": "out_7_PCTZ_7_BKK_TH_14",
+        "showText": "席隆區-曼谷(BANGKOK) BKK-泰國"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW",
+        "showText": "台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "基隆",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_KLU_TW",
+        "showText": "基隆"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "北投區-台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW_85TWTPE001",
+        "showText": "北投區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "中山區-台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW_85TWTPE004",
+        "showText": "中山區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "淡水區-台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW_85TWTPE016",
+        "showText": "淡水區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "萬里區-台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW_85TWTPE017",
+        "showText": "萬里區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "大安區-台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW_85TWTPE011",
+        "showText": "大安區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "信義區-台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW_85TWTPE009",
+        "showText": "信義區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "中正區-台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW_85TWTPE010",
+        "showText": "中正區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "金山區-台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW_85TWTPE015",
+        "showText": "金山區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "松山區-台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW_85TWTPE005",
+        "showText": "松山區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "士林區-台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW_85TWTPE002",
+        "showText": "士林區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "烏來區-台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW_85TWTPE041",
+        "showText": "烏來區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "貢寮區-台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW_85TWTPE023",
+        "showText": "貢寮區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "板橋區-台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW_85TWTPE031",
+        "showText": "板橋區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "三峽區-台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW_85TWTPE040",
+        "showText": "三峽區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "大同區-台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW_85TWTPE006",
+        "showText": "大同區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "萬華區-台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW_85TWTPE008",
+        "showText": "萬華區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "內湖區-台北",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_TPE_TW_85TWTPE003",
+        "showText": "內湖區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門城市",
+        "vCity": "中正區-基隆",
+        "value": "in_TPE_KLU_PCT_TPE_KLU_KLU_TW_85TWKLU001",
+        "showText": "中正區-基隆"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門區域",
+        "vCity": "北投溫泉-台北",
+        "value": "in_TPE_KLU_PCTZ_TPE_KLU_TPE_TW_84TWTPE014",
+        "showText": "北投溫泉-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門區域",
+        "vCity": "台北車站-台北",
+        "value": "in_TPE_KLU_PCTZ_TPE_KLU_TPE_TW_84TWTPE003",
+        "showText": "台北車站-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門區域",
+        "vCity": "西門町商圈-台北",
+        "value": "in_TPE_KLU_PCTZ_TPE_KLU_TPE_TW_84TWTPE001",
+        "showText": "西門町商圈-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門區域",
+        "vCity": "大直美麗華-台北",
+        "value": "in_TPE_KLU_PCTZ_TPE_KLU_TPE_TW_84TWTPE013",
+        "showText": "大直美麗華-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門區域",
+        "vCity": "碧潭風景區-台北",
+        "value": "in_TPE_KLU_PCTZ_TPE_KLU_TPE_TW_84TWTPE016",
+        "showText": "碧潭風景區-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門區域",
+        "vCity": "士林天母商圈-台北",
+        "value": "in_TPE_KLU_PCTZ_TPE_KLU_TPE_TW_84TWTPE007",
+        "showText": "士林天母商圈-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門區域",
+        "vCity": "小巨蛋商圈-台北",
+        "value": "in_TPE_KLU_PCTZ_TPE_KLU_TPE_TW_84TWTPE012",
+        "showText": "小巨蛋商圈-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門區域",
+        "vCity": "忠孝sogo商圈-台北",
+        "value": "in_TPE_KLU_PCTZ_TPE_KLU_TPE_TW_84TWTPE005",
+        "showText": "忠孝sogo商圈-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門地標",
+        "vCity": "【淡水信義線】新北投捷運站-台北",
+        "value": "in_TPE_KLU_PCTP_TPE_KLU_TPE_TW_80TWTPES59",
+        "showText": "【淡水信義線】新北投捷運站-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門地標",
+        "vCity": "【淡水信義線】淡水捷運站-台北",
+        "value": "in_TPE_KLU_PCTP_TPE_KLU_TPE_TW_80TWTPES01",
+        "showText": "【淡水信義線】淡水捷運站-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門地標",
+        "vCity": "【文湖線】木柵捷運站-台北",
+        "value": "in_TPE_KLU_PCTP_TPE_KLU_TPE_TW_80TWTPES43",
+        "showText": "【文湖線】木柵捷運站-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門地標",
+        "vCity": "【淡水信義線】台北101/世貿站-台北",
+        "value": "in_TPE_KLU_PCTP_TPE_KLU_TPE_TW_80TWTPEA03",
+        "showText": "【淡水信義線】台北101/世貿站-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門地標",
+        "vCity": "【板南線】板橋捷運站-台北",
+        "value": "in_TPE_KLU_PCTP_TPE_KLU_TPE_TW_80TWTPES91",
+        "showText": "【板南線】板橋捷運站-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門地標",
+        "vCity": "【淡水信義線】台北車站-台北",
+        "value": "in_TPE_KLU_PCTP_TPE_KLU_TPE_TW_80TWTPES72",
+        "showText": "【淡水信義線】台北車站-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門地標",
+        "vCity": "【文湖線】松山機場捷運站-台北",
+        "value": "in_TPE_KLU_PCTP_TPE_KLU_TPE_TW_80TWTPES71",
+        "showText": "【文湖線】松山機場捷運站-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "北北基",
+        "vCountry": "熱門地標",
+        "vCity": "【淡水信義線】紅樹林捷運站-台北",
+        "value": "in_TPE_KLU_PCTP_TPE_KLU_TPE_TW_80TWTPES02",
+        "showText": "【淡水信義線】紅樹林捷運站-台北"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "新竹",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_HCU_TW",
+        "showText": "新竹"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "桃園",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_TAO_TW",
+        "showText": "桃園"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "苗栗",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_MLI_TW",
+        "showText": "苗栗"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "泰安鄉-苗栗",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_MLI_TW_85TWMLI018",
+        "showText": "泰安鄉-苗栗"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "中壢區-桃園",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_TAO_TW_85TWTAO006",
+        "showText": "中壢區-桃園"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "大園區-桃園",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_TAO_TW_85TWTAO002",
+        "showText": "大園區-桃園"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "大溪區-桃園",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_TAO_TW_85TWTAO011",
+        "showText": "大溪區-桃園"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "關西鎮-新竹",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_HCU_TW_85TWHCU008",
+        "showText": "關西鎮-新竹"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "桃園區-桃園",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_TAO_TW_85TWTAO005",
+        "showText": "桃園區-桃園"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "北區-新竹",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_HCU_TW_85TWHCU001",
+        "showText": "北區-新竹"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "尖石鄉-新竹",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_HCU_TW_85TWHCU012",
+        "showText": "尖石鄉-新竹"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "頭份鎮-苗栗",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_MLI_TW_85TWMLI010",
+        "showText": "頭份鎮-苗栗"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "東區-新竹",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_HCU_TW_85TWHCU003",
+        "showText": "東區-新竹"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "南庄鄉-苗栗",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_MLI_TW_85TWMLI014",
+        "showText": "南庄鄉-苗栗"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "竹南鎮-苗栗",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_MLI_TW_85TWMLI009",
+        "showText": "竹南鎮-苗栗"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "竹北市-新竹",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_HCU_TW_85TWHCU007",
+        "showText": "竹北市-新竹"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "五峰鄉-新竹",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_HCU_TW_85TWHCU016",
+        "showText": "五峰鄉-新竹"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "三義鄉-苗栗",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_MLI_TW_85TWMLI008",
+        "showText": "三義鄉-苗栗"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "龍潭區-桃園",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_TAO_TW_85TWTAO012",
+        "showText": "龍潭區-桃園"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門城市",
+        "vCity": "復興區-桃園",
+        "value": "in_TAO_HCU_MLI_PCT_TAO_HCU_MLI_TAO_TW_85TWTAO013",
+        "showText": "復興區-桃園"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門區域",
+        "vCity": "雪霸‧觀霧-新竹",
+        "value": "in_TAO_HCU_MLI_PCTZ_TAO_HCU_MLI_HCU_TW_84TWHCU006",
+        "showText": "雪霸‧觀霧-新竹"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門區域",
+        "vCity": "關西‧六福村-新竹",
+        "value": "in_TAO_HCU_MLI_PCTZ_TAO_HCU_MLI_HCU_TW_84TWHCU005",
+        "showText": "關西‧六福村-新竹"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門區域",
+        "vCity": "泰安溫泉-苗栗",
+        "value": "in_TAO_HCU_MLI_PCTZ_TAO_HCU_MLI_MLI_TW_84TWMLI006",
+        "showText": "泰安溫泉-苗栗"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門區域",
+        "vCity": "桃園國際機場-桃園",
+        "value": "in_TAO_HCU_MLI_PCTZ_TAO_HCU_MLI_TAO_TW_84TWTAO001",
+        "showText": "桃園國際機場-桃園"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門區域",
+        "vCity": "青草湖-新竹",
+        "value": "in_TAO_HCU_MLI_PCTZ_TAO_HCU_MLI_HCU_TW_84TWHCU003",
+        "showText": "青草湖-新竹"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門區域",
+        "vCity": "石門水庫-桃園",
+        "value": "in_TAO_HCU_MLI_PCTZ_TAO_HCU_MLI_TAO_TW_84TWTAO007",
+        "showText": "石門水庫-桃園"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門區域",
+        "vCity": "中壢火車站-桃園",
+        "value": "in_TAO_HCU_MLI_PCTZ_TAO_HCU_MLI_TAO_TW_84TWTAO002",
+        "showText": "中壢火車站-桃園"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "桃竹苗",
+        "vCountry": "熱門區域",
+        "vCity": "桃園火車站-桃園",
+        "value": "in_TAO_HCU_MLI_PCTZ_TAO_HCU_MLI_TAO_TW_84TWTAO006",
+        "showText": "桃園火車站-桃園"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "南投",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_NTO_TW",
+        "showText": "南投"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "台中",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_TCH_TW",
+        "showText": "台中"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "彰化",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_CHA_TW",
+        "showText": "彰化"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "西屯區-台中",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_TCH_TW_85TWTCH007",
+        "showText": "西屯區-台中"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "仁愛鄉-南投",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_NTO_TW_85TWNTO008",
+        "showText": "仁愛鄉-南投"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "魚池鄉-南投",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_NTO_TW_85TWNTO007",
+        "showText": "魚池鄉-南投"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "中區-台中",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_TCH_TW_85TWTCH001",
+        "showText": "中區-台中"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "埔里鎮-南投",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_NTO_TW_85TWNTO005",
+        "showText": "埔里鎮-南投"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "西區-台中",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_TCH_TW_85TWTCH004",
+        "showText": "西區-台中"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "鹿谷鄉-南投",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_NTO_TW_85TWNTO013",
+        "showText": "鹿谷鄉-南投"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "員林鎮-彰化",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_CHA_TW_85TWCHA002",
+        "showText": "員林鎮-彰化"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "后里區-台中",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_TCH_TW_85TWTCH014",
+        "showText": "后里區-台中"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "北屯區-台中",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_TCH_TW_85TWTCH006",
+        "showText": "北屯區-台中"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "和平區-台中",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_TCH_TW_85TWTCH021",
+        "showText": "和平區-台中"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "北區-台中",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_TCH_TW_85TWTCH005",
+        "showText": "北區-台中"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "彰化市-彰化",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_CHA_TW_85TWCHA001",
+        "showText": "彰化市-彰化"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "鹿港鎮-彰化",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_CHA_TW_85TWCHA004",
+        "showText": "鹿港鎮-彰化"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "南屯區-台中",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_TCH_TW_85TWTCH008",
+        "showText": "南屯區-台中"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "竹山鎮-南投",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_NTO_TW_85TWNTO012",
+        "showText": "竹山鎮-南投"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門城市",
+        "vCity": "集集鎮-南投",
+        "value": "in_TCH_CHA_NTO_PCT_TCH_CHA_NTO_NTO_TW_85TWNTO010",
+        "showText": "集集鎮-南投"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門區域",
+        "vCity": "清境農場-南投",
+        "value": "in_TCH_CHA_NTO_PCTZ_TCH_CHA_NTO_NTO_TW_84TWNTO001",
+        "showText": "清境農場-南投"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門區域",
+        "vCity": "日月潭-南投",
+        "value": "in_TCH_CHA_NTO_PCTZ_TCH_CHA_NTO_NTO_TW_84TWNTO003",
+        "showText": "日月潭-南投"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門區域",
+        "vCity": "溪頭‧杉林溪-南投",
+        "value": "in_TCH_CHA_NTO_PCTZ_TCH_CHA_NTO_NTO_TW_84TWNTO004",
+        "showText": "溪頭‧杉林溪-南投"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門區域",
+        "vCity": "日月潭依達邵-南投",
+        "value": "in_TCH_CHA_NTO_PCTZ_TCH_CHA_NTO_NTO_TW_84TWNTO002",
+        "showText": "日月潭依達邵-南投"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門區域",
+        "vCity": "逢甲商圈-台中",
+        "value": "in_TCH_CHA_NTO_PCTZ_TCH_CHA_NTO_TCH_TW_84TWTCH001",
+        "showText": "逢甲商圈-台中"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門區域",
+        "vCity": "谷關溫泉-台中",
+        "value": "in_TCH_CHA_NTO_PCTZ_TCH_CHA_NTO_TCH_TW_84TWTCH006",
+        "showText": "谷關溫泉-台中"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門區域",
+        "vCity": "武陵農場-台中",
+        "value": "in_TCH_CHA_NTO_PCTZ_TCH_CHA_NTO_TCH_TW_84TWTCH004",
+        "showText": "武陵農場-台中"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "中彰投",
+        "vCountry": "熱門區域",
+        "vCity": "梨山福壽山-台中",
+        "value": "in_TCH_CHA_NTO_PCTZ_TCH_CHA_NTO_TCH_TW_84TWTCH005",
+        "showText": "梨山福壽山-台中"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門城市",
+        "vCity": "雲林",
+        "value": "in_YLI_CYI_TNN_PCT_YLI_CYI_TNN_YLI_TW",
+        "showText": "雲林"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門城市",
+        "vCity": "中西區-台南",
+        "value": "in_YLI_CYI_TNN_PCT_YLI_CYI_TNN_TNN_TW_85TWTNN001",
+        "showText": "中西區-台南"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門城市",
+        "vCity": "西區-嘉義",
+        "value": "in_YLI_CYI_TNN_PCT_YLI_CYI_TNN_CYI_TW_85TWCYI002",
+        "showText": "西區-嘉義"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門城市",
+        "vCity": "東區-台南",
+        "value": "in_YLI_CYI_TNN_PCT_YLI_CYI_TNN_TNN_TW_85TWTNN002",
+        "showText": "東區-台南"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門城市",
+        "vCity": "安平區-台南",
+        "value": "in_YLI_CYI_TNN_PCT_YLI_CYI_TNN_TNN_TW_85TWTNN005",
+        "showText": "安平區-台南"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門城市",
+        "vCity": "北區-台南",
+        "value": "in_YLI_CYI_TNN_PCT_YLI_CYI_TNN_TNN_TW_85TWTNN004",
+        "showText": "北區-台南"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門城市",
+        "vCity": "東區-嘉義",
+        "value": "in_YLI_CYI_TNN_PCT_YLI_CYI_TNN_CYI_TW_85TWCYI001",
+        "showText": "東區-嘉義"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門城市",
+        "vCity": "斗六市-雲林",
+        "value": "in_YLI_CYI_TNN_PCT_YLI_CYI_TNN_YLI_TW_85TWYLI001",
+        "showText": "斗六市-雲林"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門城市",
+        "vCity": "古坑鄉-雲林",
+        "value": "in_YLI_CYI_TNN_PCT_YLI_CYI_TNN_YLI_TW_85TWYLI004",
+        "showText": "古坑鄉-雲林"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門城市",
+        "vCity": "白河區-台南",
+        "value": "in_YLI_CYI_TNN_PCT_YLI_CYI_TNN_TNN_TW_85TWTNN027",
+        "showText": "白河區-台南"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門城市",
+        "vCity": "南區-台南",
+        "value": "in_YLI_CYI_TNN_PCT_YLI_CYI_TNN_TNN_TW_85TWTNN003",
+        "showText": "南區-台南"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門城市",
+        "vCity": "永康區-台南",
+        "value": "in_YLI_CYI_TNN_PCT_YLI_CYI_TNN_TNN_TW_85TWTNN007",
+        "showText": "永康區-台南"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門城市",
+        "vCity": "竹崎鄉-嘉義",
+        "value": "in_YLI_CYI_TNN_PCT_YLI_CYI_TNN_CYI_TW_85TWCYI016",
+        "showText": "竹崎鄉-嘉義"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門城市",
+        "vCity": "中埔鄉-嘉義",
+        "value": "in_YLI_CYI_TNN_PCT_YLI_CYI_TNN_CYI_TW_85TWCYI015",
+        "showText": "中埔鄉-嘉義"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門城市",
+        "vCity": "番路鄉-嘉義",
+        "value": "in_YLI_CYI_TNN_PCT_YLI_CYI_TNN_CYI_TW_85TWCYI021",
+        "showText": "番路鄉-嘉義"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門城市",
+        "vCity": "民雄鄉-嘉義",
+        "value": "in_YLI_CYI_TNN_PCT_YLI_CYI_TNN_CYI_TW_85TWCYI007",
+        "showText": "民雄鄉-嘉義"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門城市",
+        "vCity": "梅山鄉-嘉義",
+        "value": "in_YLI_CYI_TNN_PCT_YLI_CYI_TNN_CYI_TW_85TWCYI017",
+        "showText": "梅山鄉-嘉義"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門區域",
+        "vCity": "阿里山-嘉義",
+        "value": "in_YLI_CYI_TNN_PCTZ_YLI_CYI_TNN_CYI_TW_84TWCYI004",
+        "showText": "阿里山-嘉義"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門區域",
+        "vCity": "關子嶺-台南",
+        "value": "in_YLI_CYI_TNN_PCTZ_YLI_CYI_TNN_TNN_TW_84TWTNN004",
+        "showText": "關子嶺-台南"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門區域",
+        "vCity": "劍湖山-雲林",
+        "value": "in_YLI_CYI_TNN_PCTZ_YLI_CYI_TNN_YLI_TW_84TWYLI003",
+        "showText": "劍湖山-雲林"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門區域",
+        "vCity": "花園夜市-台南",
+        "value": "in_YLI_CYI_TNN_PCTZ_YLI_CYI_TNN_TNN_TW_84TWTNN011",
+        "showText": "花園夜市-台南"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門區域",
+        "vCity": "中正公園商圈-嘉義",
+        "value": "in_YLI_CYI_TNN_PCTZ_YLI_CYI_TNN_CYI_TW_84TWCYI002",
+        "showText": "中正公園商圈-嘉義"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門區域",
+        "vCity": "府城商圈-台南",
+        "value": "in_YLI_CYI_TNN_PCTZ_YLI_CYI_TNN_TNN_TW_84TWTNN003",
+        "showText": "府城商圈-台南"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門區域",
+        "vCity": "赤崁樓-台南",
+        "value": "in_YLI_CYI_TNN_PCTZ_YLI_CYI_TNN_TNN_TW_84TWTNN009",
+        "showText": "赤崁樓-台南"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "雲嘉南",
+        "vCountry": "熱門區域",
+        "vCity": "安平商圈-台南",
+        "value": "in_YLI_CYI_TNN_PCTZ_YLI_CYI_TNN_TNN_TW_84TWTNN001",
+        "showText": "安平商圈-台南"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門城市",
+        "vCity": "大樹區-高雄",
+        "value": "in_KHH_PIN_PCT_KHH_PIN_KHH_TW_85TWKHH015",
+        "showText": "大樹區-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門城市",
+        "vCity": "鹽埕區-高雄",
+        "value": "in_KHH_PIN_PCT_KHH_PIN_KHH_TW_85TWKHH001",
+        "showText": "鹽埕區-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門城市",
+        "vCity": "三民區-高雄",
+        "value": "in_KHH_PIN_PCT_KHH_PIN_KHH_TW_85TWKHH005",
+        "showText": "三民區-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門城市",
+        "vCity": "苓雅區-高雄",
+        "value": "in_KHH_PIN_PCT_KHH_PIN_KHH_TW_85TWKHH008",
+        "showText": "苓雅區-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門城市",
+        "vCity": "左營區-高雄",
+        "value": "in_KHH_PIN_PCT_KHH_PIN_KHH_TW_85TWKHH003",
+        "showText": "左營區-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門城市",
+        "vCity": "新興區-高雄",
+        "value": "in_KHH_PIN_PCT_KHH_PIN_KHH_TW_85TWKHH006",
+        "showText": "新興區-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門城市",
+        "vCity": "前金區-高雄",
+        "value": "in_KHH_PIN_PCT_KHH_PIN_KHH_TW_85TWKHH007",
+        "showText": "前金區-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門城市",
+        "vCity": "鼓山區-高雄",
+        "value": "in_KHH_PIN_PCT_KHH_PIN_KHH_TW_85TWKHH002",
+        "showText": "鼓山區-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門城市",
+        "vCity": "屏東市-屏東",
+        "value": "in_KHH_PIN_PCT_KHH_PIN_PIN_TW_85TWPIN001",
+        "showText": "屏東市-屏東"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門城市",
+        "vCity": "前鎮區-高雄",
+        "value": "in_KHH_PIN_PCT_KHH_PIN_KHH_TW_85TWKHH009",
+        "showText": "前鎮區-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門城市",
+        "vCity": "琉球鄉-屏東",
+        "value": "in_KHH_PIN_PCT_KHH_PIN_PIN_TW_85TWPIN029",
+        "showText": "琉球鄉-屏東"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門城市",
+        "vCity": "車城鄉-屏東",
+        "value": "in_KHH_PIN_PCT_KHH_PIN_PIN_TW_85TWPIN031",
+        "showText": "車城鄉-屏東"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門城市",
+        "vCity": "東港鎮-屏東",
+        "value": "in_KHH_PIN_PCT_KHH_PIN_PIN_TW_85TWPIN023",
+        "showText": "東港鎮-屏東"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門城市",
+        "vCity": "鳳山區-高雄",
+        "value": "in_KHH_PIN_PCT_KHH_PIN_KHH_TW_85TWKHH012",
+        "showText": "鳳山區-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門城市",
+        "vCity": "牡丹鄉-屏東",
+        "value": "in_KHH_PIN_PCT_KHH_PIN_PIN_TW_85TWPIN033",
+        "showText": "牡丹鄉-屏東"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門城市",
+        "vCity": "六龜區-高雄",
+        "value": "in_KHH_PIN_PCT_KHH_PIN_KHH_TW_85TWKHH032",
+        "showText": "六龜區-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門城市",
+        "vCity": "田寮區-高雄",
+        "value": "in_KHH_PIN_PCT_KHH_PIN_KHH_TW_85TWKHH022",
+        "showText": "田寮區-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門區域",
+        "vCity": "墾丁大街-屏東",
+        "value": "in_KHH_PIN_PCTZ_KHH_PIN_PIN_TW_84TWPIN001",
+        "showText": "墾丁大街-屏東"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門區域",
+        "vCity": "墾丁白砂-屏東",
+        "value": "in_KHH_PIN_PCTZ_KHH_PIN_PIN_TW_84TWPIN014",
+        "showText": "墾丁白砂-屏東"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門區域",
+        "vCity": "小琉球-屏東",
+        "value": "in_KHH_PIN_PCTZ_KHH_PIN_PIN_TW_84TWPIN015",
+        "showText": "小琉球-屏東"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門區域",
+        "vCity": "義大世界-高雄",
+        "value": "in_KHH_PIN_PCTZ_KHH_PIN_KHH_TW_84TWKHH014",
+        "showText": "義大世界-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門區域",
+        "vCity": "南灣-屏東",
+        "value": "in_KHH_PIN_PCTZ_KHH_PIN_PIN_TW_84TWPIN002",
+        "showText": "南灣-屏東"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門區域",
+        "vCity": "六合美麗島-高雄",
+        "value": "in_KHH_PIN_PCTZ_KHH_PIN_KHH_TW_84TWKHH013",
+        "showText": "六合美麗島-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門區域",
+        "vCity": "四重溪-屏東",
+        "value": "in_KHH_PIN_PCTZ_KHH_PIN_PIN_TW_84TWPIN010",
+        "showText": "四重溪-屏東"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門區域",
+        "vCity": "三多商圈-高雄",
+        "value": "in_KHH_PIN_PCTZ_KHH_PIN_KHH_TW_84TWKHH016",
+        "showText": "三多商圈-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門地標",
+        "vCity": "【橘線】鳳山西站(高雄市議會)捷運站-高雄",
+        "value": "in_KHH_PIN_PCTP_KHH_PIN_KHH_TW_80TWKHHS33",
+        "showText": "【橘線】鳳山西站(高雄市議會)捷運站-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門地標",
+        "vCity": "【紅線】高雄車站捷運站-高雄",
+        "value": "in_KHH_PIN_PCTP_KHH_PIN_KHH_TW_80TWKHHS10",
+        "showText": "【紅線】高雄車站捷運站-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門地標",
+        "vCity": "【紅線】小港(小港醫院)捷運站-高雄",
+        "value": "in_KHH_PIN_PCTP_KHH_PIN_KHH_TW_80TWKHHS01",
+        "showText": "【紅線】小港(小港醫院)捷運站-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門地標",
+        "vCity": "【紅線】巨蛋(三民家商)捷運站-高雄",
+        "value": "in_KHH_PIN_PCTP_KHH_PIN_KHH_TW_80TWKHHS13",
+        "showText": "【紅線】巨蛋(三民家商)捷運站-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門地標",
+        "vCity": "【紅線】美麗島捷運站-高雄",
+        "value": "in_KHH_PIN_PCTP_KHH_PIN_KHH_TW_80TWKHHS09",
+        "showText": "【紅線】美麗島捷運站-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門地標",
+        "vCity": "【紅線】高雄國際機場捷運站-高雄",
+        "value": "in_KHH_PIN_PCTP_KHH_PIN_KHH_TW_80TWKHHS02",
+        "showText": "【紅線】高雄國際機場捷運站-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門地標",
+        "vCity": "【紅線】左營(高鐵)捷運站-高雄",
+        "value": "in_KHH_PIN_PCTP_KHH_PIN_KHH_TW_80TWKHHS15",
+        "showText": "【紅線】左營(高鐵)捷運站-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "高屏",
+        "vCountry": "熱門地標",
+        "vCity": "【橘線】西子灣(哈瑪星)捷運站-高雄",
+        "value": "in_KHH_PIN_PCTP_KHH_PIN_KHH_TW_80TWKHHS25",
+        "showText": "【橘線】西子灣(哈瑪星)捷運站-高雄"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門城市",
+        "vCity": "臺東市-台東",
+        "value": "in_YLN_HLN_TTT_PCT_YLN_HLN_TTT_TTT_TW_85TWTTT001",
+        "showText": "臺東市-台東"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門城市",
+        "vCity": "金門",
+        "value": "in_YLN_HLN_TTT_PCT_YLN_HLN_TTT_KNH_TW",
+        "showText": "金門"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門城市",
+        "vCity": "馬公市-澎湖",
+        "value": "in_YLN_HLN_TTT_PCT_YLN_HLN_TTT_MZG_TW_85TWMZG001",
+        "showText": "馬公市-澎湖"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門城市",
+        "vCity": "羅東鎮-宜蘭",
+        "value": "in_YLN_HLN_TTT_PCT_YLN_HLN_TTT_YLN_TW_85TWYLN006",
+        "showText": "羅東鎮-宜蘭"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門城市",
+        "vCity": "宜蘭市-宜蘭",
+        "value": "in_YLN_HLN_TTT_PCT_YLN_HLN_TTT_YLN_TW_85TWYLN001",
+        "showText": "宜蘭市-宜蘭"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門城市",
+        "vCity": "壽豐鄉-花蓮",
+        "value": "in_YLN_HLN_TTT_PCT_YLN_HLN_TTT_HLN_TW_85TWHLN004",
+        "showText": "壽豐鄉-花蓮"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門城市",
+        "vCity": "池上鄉-台東",
+        "value": "in_YLN_HLN_TTT_PCT_YLN_HLN_TTT_TTT_TW_85TWTTT007",
+        "showText": "池上鄉-台東"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門城市",
+        "vCity": "蘇澳鎮-宜蘭",
+        "value": "in_YLN_HLN_TTT_PCT_YLN_HLN_TTT_YLN_TW_85TWYLN011",
+        "showText": "蘇澳鎮-宜蘭"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門城市",
+        "vCity": "綠島鄉-台東",
+        "value": "in_YLN_HLN_TTT_PCT_YLN_HLN_TTT_TTT_TW_85TWTTT011",
+        "showText": "綠島鄉-台東"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門城市",
+        "vCity": "鹿野鄉-台東",
+        "value": "in_YLN_HLN_TTT_PCT_YLN_HLN_TTT_TTT_TW_85TWTTT008",
+        "showText": "鹿野鄉-台東"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門城市",
+        "vCity": "頭城鎮-宜蘭",
+        "value": "in_YLN_HLN_TTT_PCT_YLN_HLN_TTT_YLN_TW_85TWYLN002",
+        "showText": "頭城鎮-宜蘭"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門城市",
+        "vCity": "馬祖",
+        "value": "in_YLN_HLN_TTT_PCT_YLN_HLN_TTT_MFK_TW",
+        "showText": "馬祖"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門城市",
+        "vCity": "大同鄉-宜蘭",
+        "value": "in_YLN_HLN_TTT_PCT_YLN_HLN_TTT_YLN_TW_85TWYLN010",
+        "showText": "大同鄉-宜蘭"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門城市",
+        "vCity": "卑南鄉-台東",
+        "value": "in_YLN_HLN_TTT_PCT_YLN_HLN_TTT_TTT_TW_85TWTTT010",
+        "showText": "卑南鄉-台東"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門區域",
+        "vCity": "知本溫泉-台東",
+        "value": "in_YLN_HLN_TTT_PCTZ_YLN_HLN_TTT_TTT_TW_84TWTTT001",
+        "showText": "知本溫泉-台東"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門區域",
+        "vCity": "礁溪溫泉-宜蘭",
+        "value": "in_YLN_HLN_TTT_PCTZ_YLN_HLN_TTT_YLN_TW_84TWYLN001",
+        "showText": "礁溪溫泉-宜蘭"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門區域",
+        "vCity": "明池棲蘭-宜蘭",
+        "value": "in_YLN_HLN_TTT_PCTZ_YLN_HLN_TTT_YLN_TW_84TWYLN008",
+        "showText": "明池棲蘭-宜蘭"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門區域",
+        "vCity": "太魯閣-花蓮",
+        "value": "in_YLN_HLN_TTT_PCTZ_YLN_HLN_TTT_HLN_TW_84TWHLN001",
+        "showText": "太魯閣-花蓮"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門區域",
+        "vCity": "羅東夜市-宜蘭",
+        "value": "in_YLN_HLN_TTT_PCTZ_YLN_HLN_TTT_YLN_TW_84TWYLN006",
+        "showText": "羅東夜市-宜蘭"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門區域",
+        "vCity": "海洋公園-花蓮",
+        "value": "in_YLN_HLN_TTT_PCTZ_YLN_HLN_TTT_HLN_TW_84TWHLN004",
+        "showText": "海洋公園-花蓮"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門區域",
+        "vCity": "馬公市區-澎湖",
+        "value": "in_YLN_HLN_TTT_PCTZ_YLN_HLN_TTT_MZG_TW_84TWMZG001",
+        "showText": "馬公市區-澎湖"
+    },
+    {
+        "inTaiwan": "國內",
+        "vLine": "宜花東離島",
+        "vCountry": "熱門區域",
+        "vCity": "綠島-台東",
+        "value": "in_YLN_HLN_TTT_PCTZ_YLN_HLN_TTT_TTT_TW_84TWTTT002",
+        "showText": "綠島-台東"
+    }
+]

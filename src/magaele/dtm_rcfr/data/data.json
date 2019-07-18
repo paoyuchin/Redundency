@@ -1,0 +1,1570 @@
+[
+    {
+        "vLine": "美洲",
+        "vLinetravel": "美洲全部",
+        "vLinewebarea": "_",
+        "value": "_1",
+        "showText": "美洲全部"
+    },
+    {
+        "vLinetravel": "美國",
+        "vLine": "美洲",
+        "vLinewebarea": "美國全部",
+        "value": "_1_A_1",
+        "showText": "美國全部"
+    },
+    {
+        "vLinetravel": "美國",
+        "vLine": "美洲",
+        "vLinewebarea": "洛杉磯",
+        "value": "_1_A_1_01",
+        "showText": "洛杉磯"
+    },
+    {
+        "vLinetravel": "美國",
+        "vLine": "美洲",
+        "vLinewebarea": "舊金山",
+        "value": "_1_A_1_02",
+        "showText": "舊金山"
+    },
+    {
+        "vLinetravel": "美國",
+        "vLine": "美洲",
+        "vLinewebarea": "夏威夷",
+        "value": "_1_A_1_05",
+        "showText": "夏威夷"
+    },
+    {
+        "vLinetravel": "美國",
+        "vLine": "美洲",
+        "vLinewebarea": "西雅圖",
+        "value": "_1_A_1_07",
+        "showText": "西雅圖"
+    },
+    {
+        "vLinetravel": "美國",
+        "vLine": "美洲",
+        "vLinewebarea": "阿拉斯加",
+        "value": "_1_A_1_08",
+        "showText": "阿拉斯加"
+    },
+    {
+        "vLinetravel": "美國",
+        "vLine": "美洲",
+        "vLinewebarea": "美國",
+        "value": "_1_A_1_N1",
+        "showText": "美國"
+    },
+    {
+        "vLinetravel": "美國",
+        "vLine": "美洲",
+        "vLinewebarea": "北美洲",
+        "value": "_1_A_1_S8",
+        "showText": "北美洲"
+    },
+    {
+        "vLinetravel": "美國",
+        "vLine": "美洲",
+        "vLinewebarea": "休士頓",
+        "value": "_1_A_1_Z1",
+        "showText": "休士頓"
+    },
+    {
+        "vLinetravel": "加拿大",
+        "vLine": "美洲",
+        "vLinewebarea": "加拿大全部",
+        "value": "_1_B_1",
+        "showText": "加拿大全部"
+    },
+    {
+        "vLinetravel": "加拿大",
+        "vLine": "美洲",
+        "vLinewebarea": "溫哥華",
+        "value": "_1_B_1_09",
+        "showText": "溫哥華"
+    },
+    {
+        "vLinetravel": "加拿大",
+        "vLine": "美洲",
+        "vLinewebarea": "多倫多",
+        "value": "_1_B_1_10",
+        "showText": "多倫多"
+    },
+    {
+        "vLinetravel": "加拿大",
+        "vLine": "美洲",
+        "vLinewebarea": "加拿大",
+        "value": "_1_B_1_N2",
+        "showText": "加拿大"
+    },
+    {
+        "vLinetravel": "美東",
+        "vLine": "美洲",
+        "vLinewebarea": "美東全部",
+        "value": "_1_C_1",
+        "showText": "美東全部"
+    },
+    {
+        "vLinetravel": "美東",
+        "vLine": "美洲",
+        "vLinewebarea": "芝加哥",
+        "value": "_1_C_1_00",
+        "showText": "芝加哥"
+    },
+    {
+        "vLinetravel": "美東",
+        "vLine": "美洲",
+        "vLinewebarea": "紐約",
+        "value": "_1_C_1_04",
+        "showText": "紐約"
+    },
+    {
+        "vLinetravel": "美東",
+        "vLine": "美洲",
+        "vLinewebarea": "多倫多",
+        "value": "_1_C_1_10",
+        "showText": "多倫多"
+    },
+    {
+        "vLinetravel": "美東",
+        "vLine": "美洲",
+        "vLinewebarea": "美國",
+        "value": "_1_C_1_N1",
+        "showText": "美國"
+    },
+    {
+        "vLinetravel": "美洲遊輪",
+        "vLine": "美洲",
+        "vLinewebarea": "美洲遊輪全部",
+        "value": "_1_D_1",
+        "showText": "美洲遊輪全部"
+    },
+    {
+        "vLinetravel": "美洲遊輪",
+        "vLine": "美洲",
+        "vLinewebarea": "阿拉斯加郵輪",
+        "value": "_1_D_1_C1",
+        "showText": "阿拉斯加郵輪"
+    },
+    {
+        "vLinetravel": "美洲遊輪",
+        "vLine": "美洲",
+        "vLinewebarea": "加勒比海郵輪",
+        "value": "_1_D_1_C2",
+        "showText": "加勒比海郵輪"
+    },
+    {
+        "vLinetravel": "中南美洲",
+        "vLine": "美洲",
+        "vLinewebarea": "中南美洲全部",
+        "value": "_1_E_1",
+        "showText": "中南美洲全部"
+    },
+    {
+        "vLinetravel": "中南美洲",
+        "vLine": "美洲",
+        "vLinewebarea": "中美洲",
+        "value": "_1_E_1_S7",
+        "showText": "中美洲"
+    },
+    {
+        "vLinetravel": "中南美洲",
+        "vLine": "美洲",
+        "vLinewebarea": "南美洲",
+        "value": "_1_E_1_S9",
+        "showText": "南美洲"
+    },
+    {
+        "vLinetravel": "太平洋小島",
+        "vLine": "美洲",
+        "vLinewebarea": "太平洋小島全部",
+        "value": "_1_F_1",
+        "showText": "太平洋小島全部"
+    },
+    {
+        "vLinetravel": "太平洋小島",
+        "vLine": "美洲",
+        "vLinewebarea": "馬爾地夫",
+        "value": "_1_F_1_70",
+        "showText": "馬爾地夫"
+    },
+    {
+        "vLinetravel": "太平洋小島",
+        "vLine": "美洲",
+        "vLinewebarea": "帛琉",
+        "value": "_1_F_1_91",
+        "showText": "帛琉"
+    },
+    {
+        "vLinetravel": "太平洋小島",
+        "vLine": "美洲",
+        "vLinewebarea": "關島",
+        "value": "_1_F_1_92",
+        "showText": "關島"
+    },
+    {
+        "vLine": "大洋洲",
+        "vLinetravel": "大洋洲全部",
+        "vLinewebarea": "_",
+        "value": "_2",
+        "showText": "大洋洲全部"
+    },
+    {
+        "vLinetravel": "澳洲",
+        "vLine": "大洋洲",
+        "vLinewebarea": "澳洲全部",
+        "value": "_2_A_2",
+        "showText": "澳洲全部"
+    },
+    {
+        "vLinetravel": "澳洲",
+        "vLine": "大洋洲",
+        "vLinewebarea": "雪梨",
+        "value": "_2_A_2_11",
+        "showText": "雪梨"
+    },
+    {
+        "vLinetravel": "澳洲",
+        "vLine": "大洋洲",
+        "vLinewebarea": "墨爾本",
+        "value": "_2_A_2_12",
+        "showText": "墨爾本"
+    },
+    {
+        "vLinetravel": "澳洲",
+        "vLine": "大洋洲",
+        "vLinewebarea": "布里斯班",
+        "value": "_2_A_2_13",
+        "showText": "布里斯班"
+    },
+    {
+        "vLinetravel": "澳洲",
+        "vLine": "大洋洲",
+        "vLinewebarea": "阿德雷德",
+        "value": "_2_A_2_14",
+        "showText": "阿德雷德"
+    },
+    {
+        "vLinetravel": "澳洲",
+        "vLine": "大洋洲",
+        "vLinewebarea": "黃金海岸",
+        "value": "_2_A_2_15",
+        "showText": "黃金海岸"
+    },
+    {
+        "vLinetravel": "澳洲",
+        "vLine": "大洋洲",
+        "vLinewebarea": "柏斯",
+        "value": "_2_A_2_16",
+        "showText": "柏斯"
+    },
+    {
+        "vLinetravel": "澳洲",
+        "vLine": "大洋洲",
+        "vLinewebarea": "凱恩斯",
+        "value": "_2_A_2_17",
+        "showText": "凱恩斯"
+    },
+    {
+        "vLinetravel": "澳洲",
+        "vLine": "大洋洲",
+        "vLinewebarea": "東澳全覽",
+        "value": "_2_A_2_1A",
+        "showText": "東澳全覽"
+    },
+    {
+        "vLinetravel": "澳洲",
+        "vLine": "大洋洲",
+        "vLinewebarea": "雪梨、黃金海岸",
+        "value": "_2_A_2_1D",
+        "showText": "雪梨、黃金海岸"
+    },
+    {
+        "vLinetravel": "澳洲",
+        "vLine": "大洋洲",
+        "vLinewebarea": "澳洲",
+        "value": "_2_A_2_1G",
+        "showText": "澳洲"
+    },
+    {
+        "vLinetravel": "紐西蘭",
+        "vLine": "大洋洲",
+        "vLinewebarea": "紐西蘭全部",
+        "value": "_2_B_2",
+        "showText": "紐西蘭全部"
+    },
+    {
+        "vLinetravel": "紐西蘭",
+        "vLine": "大洋洲",
+        "vLinewebarea": "紐西蘭北島",
+        "value": "_2_B_2_19",
+        "showText": "紐西蘭北島"
+    },
+    {
+        "vLinetravel": "紐西蘭",
+        "vLine": "大洋洲",
+        "vLinewebarea": "紐西蘭南北島全覽",
+        "value": "_2_B_2_1B",
+        "showText": "紐西蘭南北島全覽"
+    },
+    {
+        "vLinetravel": "紐西蘭",
+        "vLine": "大洋洲",
+        "vLinewebarea": "紐西蘭南島",
+        "value": "_2_B_2_20",
+        "showText": "紐西蘭南島"
+    },
+    {
+        "vLinetravel": "大洋洲島國",
+        "vLine": "大洋洲",
+        "vLinewebarea": "大洋洲島國全部",
+        "value": "_2_E_2",
+        "showText": "大洋洲島國全部"
+    },
+    {
+        "vLinetravel": "大洋洲島國",
+        "vLine": "大洋洲",
+        "vLinewebarea": "大溪地",
+        "value": "_2_E_2_1E",
+        "showText": "大溪地"
+    },
+    {
+        "vLinetravel": "大洋洲島國",
+        "vLine": "大洋洲",
+        "vLinewebarea": "斐濟",
+        "value": "_2_E_2_1F",
+        "showText": "斐濟"
+    },
+    {
+        "vLine": "歐洲",
+        "vLinetravel": "歐洲全部",
+        "vLinewebarea": "_",
+        "value": "_3",
+        "showText": "歐洲全部"
+    },
+    {
+        "vLinetravel": "中西歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "中西歐全部",
+        "value": "_3_A_3",
+        "showText": "中西歐全部"
+    },
+    {
+        "vLinetravel": "中西歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "中西歐多國",
+        "value": "_3_A_3_21",
+        "showText": "中西歐多國"
+    },
+    {
+        "vLinetravel": "中西歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "法國",
+        "value": "_3_A_3_25",
+        "showText": "法國"
+    },
+    {
+        "vLinetravel": "中西歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "英國、愛爾蘭",
+        "value": "_3_A_3_26",
+        "showText": "英國、愛爾蘭"
+    },
+    {
+        "vLinetravel": "中西歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "德國",
+        "value": "_3_A_3_28",
+        "showText": "德國"
+    },
+    {
+        "vLinetravel": "中西歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "奧地利",
+        "value": "_3_A_3_29",
+        "showText": "奧地利"
+    },
+    {
+        "vLinetravel": "中西歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "德國、瑞士",
+        "value": "_3_A_3_2X",
+        "showText": "德國、瑞士"
+    },
+    {
+        "vLinetravel": "中西歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "荷比法",
+        "value": "_3_A_3_2Z",
+        "showText": "荷比法"
+    },
+    {
+        "vLinetravel": "中西歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "荷蘭",
+        "value": "_3_A_3_34",
+        "showText": "荷蘭"
+    },
+    {
+        "vLinetravel": "中西歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "瑞士",
+        "value": "_3_A_3_35",
+        "showText": "瑞士"
+    },
+    {
+        "vLinetravel": "中西歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "法瑞義",
+        "value": "_3_A_3_3A",
+        "showText": "法瑞義"
+    },
+    {
+        "vLinetravel": "中西歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "德國、奧地利",
+        "value": "_3_A_3_3B",
+        "showText": "德國、奧地利"
+    },
+    {
+        "vLinetravel": "中西歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "瑞士、法國",
+        "value": "_3_A_3_3F",
+        "showText": "瑞士、法國"
+    },
+    {
+        "vLinetravel": "東歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "東歐全部",
+        "value": "_3_B_3",
+        "showText": "東歐全部"
+    },
+    {
+        "vLinetravel": "東歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "東歐多國",
+        "value": "_3_B_3_22",
+        "showText": "東歐多國"
+    },
+    {
+        "vLinetravel": "東歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "德國",
+        "value": "_3_B_3_28",
+        "showText": "德國"
+    },
+    {
+        "vLinetravel": "東歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "保加利亞",
+        "value": "_3_B_3_2B",
+        "showText": "保加利亞"
+    },
+    {
+        "vLinetravel": "東歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "波蘭",
+        "value": "_3_B_3_2E",
+        "showText": "波蘭"
+    },
+    {
+        "vLinetravel": "東歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "克羅埃西亞",
+        "value": "_3_B_3_2F",
+        "showText": "克羅埃西亞"
+    },
+    {
+        "vLinetravel": "東歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "羅馬尼亞",
+        "value": "_3_B_3_2G",
+        "showText": "羅馬尼亞"
+    },
+    {
+        "vLinetravel": "東歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "奧地利、捷克",
+        "value": "_3_B_3_2R",
+        "showText": "奧地利、捷克"
+    },
+    {
+        "vLinetravel": "東歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "捷克",
+        "value": "_3_B_3_30",
+        "showText": "捷克"
+    },
+    {
+        "vLinetravel": "東歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "俄羅斯",
+        "value": "_3_B_3_31",
+        "showText": "俄羅斯"
+    },
+    {
+        "vLinetravel": "南歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "南歐全部",
+        "value": "_3_C_3",
+        "showText": "南歐全部"
+    },
+    {
+        "vLinetravel": "南歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "南歐多國",
+        "value": "_3_C_3_24",
+        "showText": "南歐多國"
+    },
+    {
+        "vLinetravel": "南歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "義大利",
+        "value": "_3_C_3_27",
+        "showText": "義大利"
+    },
+    {
+        "vLinetravel": "南歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "葡萄牙",
+        "value": "_3_C_3_2C",
+        "showText": "葡萄牙"
+    },
+    {
+        "vLinetravel": "南歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "西班牙",
+        "value": "_3_C_3_32",
+        "showText": "西班牙"
+    },
+    {
+        "vLinetravel": "南歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "希臘",
+        "value": "_3_C_3_33",
+        "showText": "希臘"
+    },
+    {
+        "vLinetravel": "南歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "西葡、摩洛哥",
+        "value": "_3_C_3_3K",
+        "showText": "西葡、摩洛哥"
+    },
+    {
+        "vLinetravel": "北歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "北歐全部",
+        "value": "_3_D_3",
+        "showText": "北歐全部"
+    },
+    {
+        "vLinetravel": "北歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "北歐多國",
+        "value": "_3_D_3_23",
+        "showText": "北歐多國"
+    },
+    {
+        "vLinetravel": "北歐",
+        "vLine": "歐洲",
+        "vLinewebarea": "北歐冰島",
+        "value": "_3_D_3_2N",
+        "showText": "北歐冰島"
+    },
+    {
+        "vLinetravel": "歐洲遊輪",
+        "vLine": "歐洲",
+        "vLinewebarea": "歐洲遊輪全部",
+        "value": "_3_E_3",
+        "showText": "歐洲遊輪全部"
+    },
+    {
+        "vLinetravel": "歐洲遊輪",
+        "vLine": "歐洲",
+        "vLinewebarea": "英國、愛爾蘭",
+        "value": "_3_E_3_26",
+        "showText": "英國、愛爾蘭"
+    },
+    {
+        "vLinetravel": "歐洲遊輪",
+        "vLine": "歐洲",
+        "vLinewebarea": "地中海郵輪",
+        "value": "_3_E_3_C3",
+        "showText": "地中海郵輪"
+    },
+    {
+        "vLinetravel": "歐洲遊輪",
+        "vLine": "歐洲",
+        "vLinewebarea": "北歐郵輪",
+        "value": "_3_E_3_C4",
+        "showText": "北歐郵輪"
+    },
+    {
+        "vLine": "亞非",
+        "vLinetravel": "亞非全部",
+        "vLinewebarea": "_",
+        "value": "_4",
+        "showText": "亞非全部"
+    },
+    {
+        "vLinetravel": "非洲",
+        "vLine": "亞非",
+        "vLinewebarea": "非洲全部",
+        "value": "_4_A_4",
+        "showText": "非洲全部"
+    },
+    {
+        "vLinetravel": "非洲",
+        "vLine": "亞非",
+        "vLinewebarea": "肯亞",
+        "value": "_4_A_4_39",
+        "showText": "肯亞"
+    },
+    {
+        "vLinetravel": "非洲",
+        "vLine": "亞非",
+        "vLinewebarea": "塞席爾",
+        "value": "_4_A_4_3I",
+        "showText": "塞席爾"
+    },
+    {
+        "vLinetravel": "非洲",
+        "vLine": "亞非",
+        "vLinewebarea": "埃及",
+        "value": "_4_A_4_41",
+        "showText": "埃及"
+    },
+    {
+        "vLinetravel": "非洲",
+        "vLine": "亞非",
+        "vLinewebarea": "南非",
+        "value": "_4_A_4_43",
+        "showText": "南非"
+    },
+    {
+        "vLinetravel": "非洲",
+        "vLine": "亞非",
+        "vLinewebarea": "摩洛哥",
+        "value": "_4_A_4_44",
+        "showText": "摩洛哥"
+    },
+    {
+        "vLinetravel": "非洲",
+        "vLine": "亞非",
+        "vLinewebarea": "衣索比亞",
+        "value": "_4_A_4_4A",
+        "showText": "衣索比亞"
+    },
+    {
+        "vLinetravel": "非洲",
+        "vLine": "亞非",
+        "vLinewebarea": "馬達加斯加",
+        "value": "_4_A_4_4B",
+        "showText": "馬達加斯加"
+    },
+    {
+        "vLinetravel": "非洲",
+        "vLine": "亞非",
+        "vLinewebarea": "突尼西亞",
+        "value": "_4_A_4_B9",
+        "showText": "突尼西亞"
+    },
+    {
+        "vLinetravel": "非洲",
+        "vLine": "亞非",
+        "vLinewebarea": "模里西斯",
+        "value": "_4_A_4_M3",
+        "showText": "模里西斯"
+    },
+    {
+        "vLinetravel": "南亞",
+        "vLine": "亞非",
+        "vLinewebarea": "南亞全部",
+        "value": "_4_B_4",
+        "showText": "南亞全部"
+    },
+    {
+        "vLinetravel": "南亞",
+        "vLine": "亞非",
+        "vLinewebarea": "印度",
+        "value": "_4_B_4_86",
+        "showText": "印度"
+    },
+    {
+        "vLinetravel": "南亞",
+        "vLine": "亞非",
+        "vLinewebarea": "尼泊爾",
+        "value": "_4_B_4_87",
+        "showText": "尼泊爾"
+    },
+    {
+        "vLinetravel": "南亞",
+        "vLine": "亞非",
+        "vLinewebarea": "斯里蘭卡",
+        "value": "_4_B_4_88",
+        "showText": "斯里蘭卡"
+    },
+    {
+        "vLinetravel": "南亞",
+        "vLine": "亞非",
+        "vLinewebarea": "不丹",
+        "value": "_4_B_4_90",
+        "showText": "不丹"
+    },
+    {
+        "vLinetravel": "中東",
+        "vLine": "亞非",
+        "vLinewebarea": "中東全部",
+        "value": "_4_C_4",
+        "showText": "中東全部"
+    },
+    {
+        "vLinetravel": "中東",
+        "vLine": "亞非",
+        "vLinewebarea": "伊朗",
+        "value": "_4_C_4_38",
+        "showText": "伊朗"
+    },
+    {
+        "vLinetravel": "中東",
+        "vLine": "亞非",
+        "vLinewebarea": "杜拜、阿布達比",
+        "value": "_4_C_4_40",
+        "showText": "杜拜、阿布達比"
+    },
+    {
+        "vLinetravel": "中東",
+        "vLine": "亞非",
+        "vLinewebarea": "土耳其",
+        "value": "_4_C_4_42",
+        "showText": "土耳其"
+    },
+    {
+        "vLinetravel": "中東",
+        "vLine": "亞非",
+        "vLinewebarea": "約旦、以色列",
+        "value": "_4_C_4_47",
+        "showText": "約旦、以色列"
+    },
+    {
+        "vLinetravel": "中東",
+        "vLine": "亞非",
+        "vLinewebarea": "阿曼",
+        "value": "_4_C_4_Y1",
+        "showText": "阿曼"
+    },
+    {
+        "vLine": "大陸港澳",
+        "vLinetravel": "大陸港澳全部",
+        "vLinewebarea": "_",
+        "value": "_5",
+        "showText": "大陸港澳全部"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "大陸全部",
+        "value": "_5_A_5",
+        "showText": "大陸全部"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "北京、天津",
+        "value": "_5_A_5_50",
+        "showText": "北京、天津"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "上海",
+        "value": "_5_A_5_51",
+        "showText": "上海"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "江南",
+        "value": "_5_A_5_52",
+        "showText": "江南"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "福建、武夷山",
+        "value": "_5_A_5_53",
+        "showText": "福建、武夷山"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "山東",
+        "value": "_5_A_5_54",
+        "showText": "山東"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "廣西、桂林、南寧",
+        "value": "_5_A_5_55",
+        "showText": "廣西、桂林、南寧"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "四川、九寨溝",
+        "value": "_5_A_5_56",
+        "showText": "四川、九寨溝"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "雲南、昆大麗",
+        "value": "_5_A_5_57",
+        "showText": "雲南、昆大麗"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "貴州、黃果樹",
+        "value": "_5_A_5_58",
+        "showText": "貴州、黃果樹"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "絲路、甘肅",
+        "value": "_5_A_5_59",
+        "showText": "絲路、甘肅"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "山西、寧夏",
+        "value": "_5_A_5_5A",
+        "showText": "山西、寧夏"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "內蒙、外蒙",
+        "value": "_5_A_5_60",
+        "showText": "內蒙、外蒙"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "西藏、青海",
+        "value": "_5_A_5_61",
+        "showText": "西藏、青海"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "重慶、長江三峽",
+        "value": "_5_A_5_62",
+        "showText": "重慶、長江三峽"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "東北三省",
+        "value": "_5_A_5_63",
+        "showText": "東北三省"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "安徽、黃山",
+        "value": "_5_A_5_64",
+        "showText": "安徽、黃山"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "西安、河南",
+        "value": "_5_A_5_65",
+        "showText": "西安、河南"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "廣東",
+        "value": "_5_A_5_67",
+        "showText": "廣東"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "湖南、湖北、張家界",
+        "value": "_5_A_5_68",
+        "showText": "湖南、湖北、張家界"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "海南島",
+        "value": "_5_A_5_69",
+        "showText": "海南島"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "昆明",
+        "value": "_5_A_5_B1",
+        "showText": "昆明"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "青島",
+        "value": "_5_A_5_B2",
+        "showText": "青島"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "南疆、北疆",
+        "value": "_5_A_5_CX",
+        "showText": "南疆、北疆"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "江西、南昌",
+        "value": "_5_A_5_CY",
+        "showText": "江西、南昌"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "北京",
+        "value": "_5_A_5_FE",
+        "showText": "北京"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "廈門",
+        "value": "_5_A_5_M9",
+        "showText": "廈門"
+    },
+    {
+        "vLinetravel": "大陸",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "大連",
+        "value": "_5_A_5_MA",
+        "showText": "大連"
+    },
+    {
+        "vLinetravel": "港澳珠圳",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "港澳珠圳全部",
+        "value": "_5_B_5",
+        "showText": "港澳珠圳全部"
+    },
+    {
+        "vLinetravel": "港澳珠圳",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "香港",
+        "value": "_5_B_5_48",
+        "showText": "香港"
+    },
+    {
+        "vLinetravel": "港澳珠圳",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "澳門、深圳珠海",
+        "value": "_5_B_5_49",
+        "showText": "澳門、深圳珠海"
+    },
+    {
+        "vLinetravel": "港澳珠圳",
+        "vLine": "大陸港澳",
+        "vLinewebarea": "澳門",
+        "value": "_5_B_5_FB",
+        "showText": "澳門"
+    },
+    {
+        "vLine": "東北亞",
+        "vLinetravel": "東北亞全部",
+        "vLinewebarea": "_",
+        "value": "_6",
+        "showText": "東北亞全部"
+    },
+    {
+        "vLinetravel": "日本",
+        "vLine": "東北亞",
+        "vLinewebarea": "日本全部",
+        "value": "_6_A_6",
+        "showText": "日本全部"
+    },
+    {
+        "vLinetravel": "日本",
+        "vLine": "東北亞",
+        "vLinewebarea": "日本全覽",
+        "value": "_6_A_6_99",
+        "showText": "日本全覽"
+    },
+    {
+        "vLinetravel": "日本",
+        "vLine": "東北亞",
+        "vLinewebarea": "信州長野、群馬",
+        "value": "_6_A_6_A0",
+        "showText": "信州長野、群馬"
+    },
+    {
+        "vLinetravel": "日本",
+        "vLine": "東北亞",
+        "vLinewebarea": "東京",
+        "value": "_6_A_6_A1",
+        "showText": "東京"
+    },
+    {
+        "vLinetravel": "日本",
+        "vLine": "東北亞",
+        "vLinewebarea": "大阪",
+        "value": "_6_A_6_A2",
+        "showText": "大阪"
+    },
+    {
+        "vLinetravel": "日本",
+        "vLine": "東北亞",
+        "vLinewebarea": "北陸名古屋",
+        "value": "_6_A_6_A3",
+        "showText": "北陸名古屋"
+    },
+    {
+        "vLinetravel": "日本",
+        "vLine": "東北亞",
+        "vLinewebarea": "九州",
+        "value": "_6_A_6_A5",
+        "showText": "九州"
+    },
+    {
+        "vLinetravel": "日本",
+        "vLine": "東北亞",
+        "vLinewebarea": "東北",
+        "value": "_6_A_6_A6",
+        "showText": "東北"
+    },
+    {
+        "vLinetravel": "日本",
+        "vLine": "東北亞",
+        "vLinewebarea": "北海道",
+        "value": "_6_A_6_A7",
+        "showText": "北海道"
+    },
+    {
+        "vLinetravel": "日本",
+        "vLine": "東北亞",
+        "vLinewebarea": "四國、中國地區",
+        "value": "_6_A_6_A9",
+        "showText": "四國、中國地區"
+    },
+    {
+        "vLinetravel": "日本",
+        "vLine": "東北亞",
+        "vLinewebarea": "福岡",
+        "value": "_6_A_6_J0",
+        "showText": "福岡"
+    },
+    {
+        "vLinetravel": "日本",
+        "vLine": "東北亞",
+        "vLinewebarea": "二世谷",
+        "value": "_6_A_6_K3",
+        "showText": "二世谷"
+    },
+    {
+        "vLinetravel": "日本",
+        "vLine": "東北亞",
+        "vLinewebarea": "白馬",
+        "value": "_6_A_6_KC",
+        "showText": "白馬"
+    },
+    {
+        "vLinetravel": "日本",
+        "vLine": "東北亞",
+        "vLinewebarea": "名古屋自由行",
+        "value": "_6_A_6_N4",
+        "showText": "名古屋自由行"
+    },
+    {
+        "vLinetravel": "日本",
+        "vLine": "東北亞",
+        "vLinewebarea": "田澤湖",
+        "value": "_6_A_6_P4",
+        "showText": "田澤湖"
+    },
+    {
+        "vLinetravel": "沖繩",
+        "vLine": "東北亞",
+        "vLinewebarea": "沖繩全部",
+        "value": "_6_B_6",
+        "showText": "沖繩全部"
+    },
+    {
+        "vLinetravel": "沖繩",
+        "vLine": "東北亞",
+        "vLinewebarea": "沖繩",
+        "value": "_6_B_6_A4",
+        "showText": "沖繩"
+    },
+    {
+        "vLinetravel": "沖繩",
+        "vLine": "東北亞",
+        "vLinewebarea": "石垣島",
+        "value": "_6_B_6_J1",
+        "showText": "石垣島"
+    },
+    {
+        "vLinetravel": "韓國",
+        "vLine": "東北亞",
+        "vLinewebarea": "韓國全部",
+        "value": "_6_C_6",
+        "showText": "韓國全部"
+    },
+    {
+        "vLinetravel": "韓國",
+        "vLine": "東北亞",
+        "vLinewebarea": "首爾",
+        "value": "_6_C_6_93",
+        "showText": "首爾"
+    },
+    {
+        "vLinetravel": "韓國",
+        "vLine": "東北亞",
+        "vLinewebarea": "釜山慶州",
+        "value": "_6_C_6_94",
+        "showText": "釜山慶州"
+    },
+    {
+        "vLinetravel": "韓國",
+        "vLine": "東北亞",
+        "vLinewebarea": "濟州島",
+        "value": "_6_C_6_95",
+        "showText": "濟州島"
+    },
+    {
+        "vLinetravel": "韓國",
+        "vLine": "東北亞",
+        "vLinewebarea": "韓國",
+        "value": "_6_C_6_CH",
+        "showText": "韓國"
+    },
+    {
+        "vLinetravel": "東北亞遊輪",
+        "vLine": "東北亞",
+        "vLinewebarea": "東北亞遊輪全部",
+        "value": "_6_D_6",
+        "showText": "東北亞遊輪全部"
+    },
+    {
+        "vLinetravel": "東北亞遊輪",
+        "vLine": "東北亞",
+        "vLinewebarea": "亞洲郵輪",
+        "value": "_6_D_6_C8",
+        "showText": "亞洲郵輪"
+    },
+    {
+        "vLinetravel": "東北亞遊輪",
+        "vLine": "東北亞",
+        "vLinewebarea": "麗星郵輪",
+        "value": "_6_D_6_CE",
+        "showText": "麗星郵輪"
+    },
+    {
+        "vLine": "東南亞",
+        "vLinetravel": "東南亞全部",
+        "vLinewebarea": "_",
+        "value": "_7",
+        "showText": "東南亞全部"
+    },
+    {
+        "vLinetravel": "泰國",
+        "vLine": "東南亞",
+        "vLinewebarea": "泰國全部",
+        "value": "_7_A_7",
+        "showText": "泰國全部"
+    },
+    {
+        "vLinetravel": "泰國",
+        "vLine": "東南亞",
+        "vLinewebarea": "曼谷",
+        "value": "_7_A_7_71",
+        "showText": "曼谷"
+    },
+    {
+        "vLinetravel": "泰國",
+        "vLine": "東南亞",
+        "vLinewebarea": "普吉島",
+        "value": "_7_A_7_72",
+        "showText": "普吉島"
+    },
+    {
+        "vLinetravel": "泰國",
+        "vLine": "東南亞",
+        "vLinewebarea": "清邁",
+        "value": "_7_A_7_73",
+        "showText": "清邁"
+    },
+    {
+        "vLinetravel": "泰國",
+        "vLine": "東南亞",
+        "vLinewebarea": "華欣",
+        "value": "_7_A_7_7A",
+        "showText": "華欣"
+    },
+    {
+        "vLinetravel": "泰國",
+        "vLine": "東南亞",
+        "vLinewebarea": "芭達雅",
+        "value": "_7_A_7_7B",
+        "showText": "芭達雅"
+    },
+    {
+        "vLinetravel": "泰國",
+        "vLine": "東南亞",
+        "vLinewebarea": "蘇梅島",
+        "value": "_7_A_7_7E",
+        "showText": "蘇梅島"
+    },
+    {
+        "vLinetravel": "泰國",
+        "vLine": "東南亞",
+        "vLinewebarea": "泰國",
+        "value": "_7_A_7_M4",
+        "showText": "泰國"
+    },
+    {
+        "vLinetravel": "馬新",
+        "vLine": "東南亞",
+        "vLinewebarea": "馬新全部",
+        "value": "_7_B_7",
+        "showText": "馬新全部"
+    },
+    {
+        "vLinetravel": "馬新",
+        "vLine": "東南亞",
+        "vLinewebarea": "吉隆坡",
+        "value": "_7_B_7_74",
+        "showText": "吉隆坡"
+    },
+    {
+        "vLinetravel": "馬新",
+        "vLine": "東南亞",
+        "vLinewebarea": "檳城",
+        "value": "_7_B_7_75",
+        "showText": "檳城"
+    },
+    {
+        "vLinetravel": "馬新",
+        "vLine": "東南亞",
+        "vLinewebarea": "沙巴",
+        "value": "_7_B_7_76",
+        "showText": "沙巴"
+    },
+    {
+        "vLinetravel": "馬新",
+        "vLine": "東南亞",
+        "vLinewebarea": "新加坡",
+        "value": "_7_B_7_77",
+        "showText": "新加坡"
+    },
+    {
+        "vLinetravel": "馬新",
+        "vLine": "東南亞",
+        "vLinewebarea": "民丹島",
+        "value": "_7_B_7_78",
+        "showText": "民丹島"
+    },
+    {
+        "vLinetravel": "馬新",
+        "vLine": "東南亞",
+        "vLinewebarea": "珍拉汀灣",
+        "value": "_7_B_7_M1",
+        "showText": "珍拉汀灣"
+    },
+    {
+        "vLinetravel": "馬新",
+        "vLine": "東南亞",
+        "vLinewebarea": "汶萊",
+        "value": "_7_B_7_M6",
+        "showText": "汶萊"
+    },
+    {
+        "vLinetravel": "印尼",
+        "vLine": "東南亞",
+        "vLinewebarea": "印尼全部",
+        "value": "_7_C_7",
+        "showText": "印尼全部"
+    },
+    {
+        "vLinetravel": "印尼",
+        "vLine": "東南亞",
+        "vLinewebarea": "峇里島",
+        "value": "_7_C_7_79",
+        "showText": "峇里島"
+    },
+    {
+        "vLinetravel": "印尼",
+        "vLine": "東南亞",
+        "vLinewebarea": "巴淡島",
+        "value": "_7_C_7_7F",
+        "showText": "巴淡島"
+    },
+    {
+        "vLinetravel": "印尼",
+        "vLine": "東南亞",
+        "vLinewebarea": "莫憂島 MOYO",
+        "value": "_7_C_7_MO",
+        "showText": "莫憂島 MOYO"
+    },
+    {
+        "vLinetravel": "菲高棉越南",
+        "vLine": "東南亞",
+        "vLinewebarea": "菲高棉越南全部",
+        "value": "_7_E_7",
+        "showText": "菲高棉越南全部"
+    },
+    {
+        "vLinetravel": "菲高棉越南",
+        "vLine": "東南亞",
+        "vLinewebarea": "菲律賓",
+        "value": "_7_E_7_81",
+        "showText": "菲律賓"
+    },
+    {
+        "vLinetravel": "菲高棉越南",
+        "vLine": "東南亞",
+        "vLinewebarea": "柬埔寨",
+        "value": "_7_E_7_82",
+        "showText": "柬埔寨"
+    },
+    {
+        "vLinetravel": "菲高棉越南",
+        "vLine": "東南亞",
+        "vLinewebarea": "越南",
+        "value": "_7_E_7_83",
+        "showText": "越南"
+    },
+    {
+        "vLinetravel": "東南亞遊輪",
+        "vLine": "東南亞",
+        "vLinewebarea": "東南亞遊輪全部",
+        "value": "_7_F_7",
+        "showText": "東南亞遊輪全部"
+    },
+    {
+        "vLinetravel": "東南亞遊輪",
+        "vLine": "東南亞",
+        "vLinewebarea": "麗星郵輪",
+        "value": "_7_F_7_CE",
+        "showText": "麗星郵輪"
+    },
+    {
+        "vLine": "台灣",
+        "vLinetravel": "台灣全部",
+        "vLinewebarea": "_",
+        "value": "_9",
+        "showText": "台灣全部"
+    },
+    {
+        "vLinetravel": "北基宜",
+        "vLine": "台灣",
+        "vLinewebarea": "北基宜全部",
+        "value": "_9_51_9",
+        "showText": "北基宜全部"
+    },
+    {
+        "vLinetravel": "北基宜",
+        "vLine": "台灣",
+        "vLinewebarea": "台北",
+        "value": "_9_51_9_AA",
+        "showText": "台北"
+    },
+    {
+        "vLinetravel": "北基宜",
+        "vLine": "台灣",
+        "vLinewebarea": "宜蘭",
+        "value": "_9_51_9_AC",
+        "showText": "宜蘭"
+    },
+    {
+        "vLinetravel": "北基宜",
+        "vLine": "台灣",
+        "vLinewebarea": "環島",
+        "value": "_9_51_9_AZ",
+        "showText": "環島"
+    },
+    {
+        "vLinetravel": "桃竹苗",
+        "vLine": "台灣",
+        "vLinewebarea": "桃竹苗全部",
+        "value": "_9_52_9",
+        "showText": "桃竹苗全部"
+    },
+    {
+        "vLinetravel": "桃竹苗",
+        "vLine": "台灣",
+        "vLinewebarea": "桃園",
+        "value": "_9_52_9_AD",
+        "showText": "桃園"
+    },
+    {
+        "vLinetravel": "桃竹苗",
+        "vLine": "台灣",
+        "vLinewebarea": "新竹",
+        "value": "_9_52_9_AE",
+        "showText": "新竹"
+    },
+    {
+        "vLinetravel": "桃竹苗",
+        "vLine": "台灣",
+        "vLinewebarea": "苗栗",
+        "value": "_9_52_9_AF",
+        "showText": "苗栗"
+    },
+    {
+        "vLinetravel": "中彰投",
+        "vLine": "台灣",
+        "vLinewebarea": "中彰投全部",
+        "value": "_9_53_9",
+        "showText": "中彰投全部"
+    },
+    {
+        "vLinetravel": "中彰投",
+        "vLine": "台灣",
+        "vLinewebarea": "台中",
+        "value": "_9_53_9_AG",
+        "showText": "台中"
+    },
+    {
+        "vLinetravel": "中彰投",
+        "vLine": "台灣",
+        "vLinewebarea": "彰化",
+        "value": "_9_53_9_AH",
+        "showText": "彰化"
+    },
+    {
+        "vLinetravel": "中彰投",
+        "vLine": "台灣",
+        "vLinewebarea": "南投",
+        "value": "_9_53_9_AI",
+        "showText": "南投"
+    },
+    {
+        "vLinetravel": "雲嘉南",
+        "vLine": "台灣",
+        "vLinewebarea": "雲嘉南全部",
+        "value": "_9_54_9",
+        "showText": "雲嘉南全部"
+    },
+    {
+        "vLinetravel": "雲嘉南",
+        "vLine": "台灣",
+        "vLinewebarea": "雲林",
+        "value": "_9_54_9_AJ",
+        "showText": "雲林"
+    },
+    {
+        "vLinetravel": "雲嘉南",
+        "vLine": "台灣",
+        "vLinewebarea": "嘉義",
+        "value": "_9_54_9_AK",
+        "showText": "嘉義"
+    },
+    {
+        "vLinetravel": "雲嘉南",
+        "vLine": "台灣",
+        "vLinewebarea": "台南",
+        "value": "_9_54_9_AL",
+        "showText": "台南"
+    },
+    {
+        "vLinetravel": "高屏",
+        "vLine": "台灣",
+        "vLinewebarea": "高屏全部",
+        "value": "_9_55_9",
+        "showText": "高屏全部"
+    },
+    {
+        "vLinetravel": "高屏",
+        "vLine": "台灣",
+        "vLinewebarea": "高雄",
+        "value": "_9_55_9_AM",
+        "showText": "高雄"
+    },
+    {
+        "vLinetravel": "高屏",
+        "vLine": "台灣",
+        "vLinewebarea": "屏東",
+        "value": "_9_55_9_AN",
+        "showText": "屏東"
+    },
+    {
+        "vLinetravel": "花東",
+        "vLine": "台灣",
+        "vLinewebarea": "花東全部",
+        "value": "_9_56_9",
+        "showText": "花東全部"
+    },
+    {
+        "vLinetravel": "花東",
+        "vLine": "台灣",
+        "vLinewebarea": "花蓮",
+        "value": "_9_56_9_AO",
+        "showText": "花蓮"
+    },
+    {
+        "vLinetravel": "花東",
+        "vLine": "台灣",
+        "vLinewebarea": "台東",
+        "value": "_9_56_9_AP",
+        "showText": "台東"
+    },
+    {
+        "vLinetravel": "花東",
+        "vLine": "台灣",
+        "vLinewebarea": "環島",
+        "value": "_9_56_9_AZ",
+        "showText": "環島"
+    },
+    {
+        "vLinetravel": "澎金馬蘭綠離島",
+        "vLine": "台灣",
+        "vLinewebarea": "澎金馬蘭綠離島全部",
+        "value": "_9_57_9",
+        "showText": "澎金馬蘭綠離島全部"
+    },
+    {
+        "vLinetravel": "澎金馬蘭綠離島",
+        "vLine": "台灣",
+        "vLinewebarea": "綠島",
+        "value": "_9_57_9_AR",
+        "showText": "綠島"
+    },
+    {
+        "vLinetravel": "澎金馬蘭綠離島",
+        "vLine": "台灣",
+        "vLinewebarea": "澎湖",
+        "value": "_9_57_9_AS",
+        "showText": "澎湖"
+    },
+    {
+        "vLinetravel": "澎金馬蘭綠離島",
+        "vLine": "台灣",
+        "vLinewebarea": "金門",
+        "value": "_9_57_9_AT",
+        "showText": "金門"
+    },
+    {
+        "vLinetravel": "澎金馬蘭綠離島",
+        "vLine": "台灣",
+        "vLinewebarea": "馬祖",
+        "value": "_9_57_9_AU",
+        "showText": "馬祖"
+    }
+]

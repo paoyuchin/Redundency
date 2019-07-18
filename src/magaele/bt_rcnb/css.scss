@@ -1,0 +1,153 @@
+/**
+ * Import core mixins, variables, or others
+ */
+
+@import "../core/core/mixins";
+@import "../core/core/variables";
+/**
+  * Define your classname
+  */
+
+$classname: 'bt_rcnb';
+/*
+  * Start your css code
+  */
+
+.#{$classname} {
+    @mixin Inverted($colorSty, $colorDarkSty) {
+        background: $colorSty;
+        &.active,
+        &:hover {
+            background-color: $colorDarkSty;
+            color: #fff;
+        }
+        &.Inverted {
+            background: transparent none;
+            color: $colorSty;
+            border: 2px solid $colorSty;
+            &:hover {
+                background: $colorSty;
+                color: #fff;
+            }
+        }
+        &.disabled {
+            cursor: not-allowed;
+            background: #bbb;
+            border-color: #bbb;
+            color: #fff;
+            &:hover {
+                cursor: not-allowed;
+                background: #bbb;
+                border-color: #bbb;
+                color: #fff;
+            }
+        }
+    }
+    $redTheme: #e10500;
+    $redDarkTheme: #bb0400;
+    $orangeTheme: #ff851b;
+    $orangeDarkTheme: #ff7701;
+    $yellowTheme: #ffe21f;
+    $yellowDarkTheme: #ffdf05;
+    $greenTheme: #2ecc40;
+    $greenDarkTheme: #22be34;
+    $tealTheme: #6dffff;
+    $tealDarkTheme: #54ffff;
+    $blueTheme: #54c8ff;
+    $blueDarkTheme: #3ac0ff;
+    $violetTheme: #a291fb;
+    $violetDarkTheme: #8a73ff;
+    $purpleTheme: #dc73ff;
+    $purpleDarkTheme: #d65aff;
+    $pinkTheme: #ff8edf;
+    $pinkDarkTheme: #ff74d8;
+    $brownTheme: #d67c1c;
+    $brownDarkTheme: #c86f11; //DEAFAULT
+    outline: none;
+    min-width: 77px;
+    min-height: 31px;
+    color: white;
+    background: $redTheme;
+    border: none;
+    font-family: Verdana,
+    Arial,
+    "微軟正黑體",
+    "Microsoft JhengHei",
+    "微軟雅黑體",
+    "Microsoft YaHei";
+    font-size: 14px;
+    padding: 2px 8px;
+    &.radius {
+        border-radius: 7px;
+    }
+    // &.disabled {
+    //     cursor: not-allowed !important;
+    //     background: #bbb !important;
+    //     color: #fff !important;
+    // }
+    //COLOR
+    @include Inverted($redTheme, $redDarkTheme);
+    &.Oragne {
+        @include Inverted($orangeTheme, $orangeDarkTheme);
+    }
+    &.Yellow {
+        @include Inverted($yellowTheme, $yellowDarkTheme);
+    }
+    &.Green {
+        @include Inverted($greenTheme, $greenDarkTheme);
+    }
+    &.Teal {
+        @include Inverted($tealTheme, $tealDarkTheme);
+    }
+    &.Blue {
+        @include Inverted($blueTheme, $blueDarkTheme);
+    }
+    &.Violet {
+        @include Inverted($violetTheme, $violetDarkTheme);
+    }
+    &.Purple {
+        @include Inverted($purpleTheme, $purpleDarkTheme);
+    }
+    &.Pink {
+        @include Inverted($pinkTheme, $pinkDarkTheme);
+    }
+    &.Brown {
+        @include Inverted($brownTheme, $brownDarkTheme);
+    } //SIZE
+    &.xs {
+        line-height: 1;
+        min-width: initial;
+        min-height: initial;
+        padding: 4px 5px;
+    }
+    &.md {
+        font-size: 16px;
+        min-width: 77px;
+        min-height: 34px;
+        padding: 5px 6px;
+    }
+    &.lg {
+        min-width: 96px;
+        min-height: 47px;
+        font-size: 16px;
+        padding: 11px 16px;
+    }
+    &.fluid {
+        width: 100%;
+    }
+    & .ic_rcln {
+        line-height: 1.5;
+    } // style on phone device
+    @media screen and (min-width: $screen-tablet) {
+        // style on tablet device
+    }
+    @media screen and (min-width: $screen-desktop) {
+        // style on desktop device
+    }
+    @media screen and (min-width: $screen-lg-desktop) {
+        // style on desktop device
+    }
+    &_modifier {}
+    &>.#{$classname}_child {}
+    & .#{$classname}_descendant {}
+}

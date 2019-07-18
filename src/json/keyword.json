@@ -1,0 +1,18 @@
+{
+    "Destinations": [
+        {
+            "Code": "191021",
+            "Name": "大阪周遊一日券-serp test",
+            "Kind": "18",
+            "KindName": "產品",
+            "Foreign": "1"
+        },
+        {
+            "Code": "402194",
+            "Name": "大阪周遊一日券",
+            "Kind": "18",
+            "KindName": "產品",
+            "Foreign": "1"
+        }
+    ]
+}

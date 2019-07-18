@@ -1,0 +1,47 @@
+{
+  "vLine": {
+    "_9": "台灣"
+  },
+  "vLinetravel": {
+    "_9": {
+      "_": "不限",
+      "_KLU_TPE_YLN_9": "北基宜",
+      "_TAO_CLI_HCU_MLI_9": "桃竹苗",
+      "_TCH_CHA_NTO_9": "中彰投",
+      "_YLI_CYI_TNN_9": "雲嘉南",
+      "_KHH_PIN_9": "高屏",
+      "_HLN_TTT_MZG_KNH_MFK_9": "花東"
+    }
+  },
+  "vLinewebarea": {
+    "_KLU_TPE_YLN_9": {
+      "_": "不限",
+      "_TPE": "台北"
+    },
+    "_TAO_CLI_HCU_MLI_9": {
+      "_": "不限",
+      "_TAO": "桃園",
+      "_CLI": "中壢",
+      "_HCU": "新竹"
+    },
+    "_TCH_CHA_NTO_9": {
+      "_": "不限",
+      "_TCH": "台中",
+      "_NTO": "南投"
+    },
+    "_YLI_CYI_TNN_9": {
+      "_": "不限",
+      "_CYI": "嘉義",
+      "_TNN": "台南"
+    },
+    "_KHH_PIN_9": {
+      "_": "不限",
+      "_KHH": "高雄"
+    },
+    "_HLN_TTT_MZG_KNH_MFK_9": {
+      "_": "不限",
+      "_TTT": "台東",
+      "_KNH": "金門"
+    }
+  }
+}

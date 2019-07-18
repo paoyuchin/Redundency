@@ -1,0 +1,104 @@
+@import "../core/core/mixins";
+@import "../core/core/variables";
+
+$classname: 'cr_rcln';
+// 編譯後的CSS所在位置，如果你的CSS有需要讀圖檔或字型，請在URL字串前加上'#{$resource-path}'
+$resource-path: resource-path($classname);
+// -------------------------------------
+// 您的CSS Code
+// -------------------------------------
+//以下範例可以刪除，改為您自已的CSS Code
+$size: 20px;
+$default-icon-color: #0077b3;
+$default-frame-color: #ddd;
+$focus-frame-color: #69c1a8;
+
+@mixin transform($transform...) {
+  -webkit-transform: $transform;
+     -moz-transform: $transform;
+       -o-transform: $transform;
+          transform: $transform;
+}
+@mixin changestyle($icon: #0077b3, $frame: #ddd, $checkedframe: #ddd, $focus:#69c1a8, $checkedcolor: #444) {
+	input {
+		&[type='checkbox'] {
+			&:checked + .indicator { border-color: $checkedframe }
+			&:checked + .indicator::after { border-color: $icon }
+			&:focus + .indicator { border-color: $focus }
+		}
+		& + .indicator {
+			border-color: $frame;
+		}
+		&[type='checkbox'], &[type='radio'] { &:focus + .indicator { border-color: $focus; } }
+		&:checked + .indicator + span { color: $checkedcolor }
+	}
+}
+
+
+.#{$classname} {
+    line-height: $size;
+    padding-left: calc(#{$size} + 5px);
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    // ($icon, $frame, $checkedframe, $focus, $checkedcolor)
+    &.red { 
+    	@include changestyle(red, $default-frame-color, red, $focus-frame-color, red); 
+    	input {
+            &[type='checkbox'], &[type='radio'] {
+                &:checked:focus + .indicator {
+                    border-color: red;
+                }
+            }
+            &:check span{
+                color: red;
+            }
+        }
+    }
+    &.org { @include changestyle(#ff8c79, $default-frame-color, $default-frame-color, $focus-frame-color); }
+    &.l-org { @include changestyle(#ffac9f, $default-frame-color, $default-frame-color, $focus-frame-color); } //xin flight
+    input {
+        opacity: 0;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 20px;
+        z-index: 10;
+        &:disabled + .indicator {
+			background-color: #F0F0F0;
+        }
+        
+        & + .indicator {
+            background-color: #fff;
+            border: solid 1px $default-frame-color;
+            height: $size;
+            width: $size;
+            position: absolute;
+            top: 0;
+            left: 0px;
+            @include transition(border-color ease-in-out .15s, box-shadow ease-in-out .15s);
+        }
+        &:focus + .indicator {
+            border-color: $focus-frame-color;
+        }
+        &:checked + .indicator {
+            &::after {
+                content: " ";
+                display: block;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+            }
+        }
+        &[type="checkbox"] {
+            &:checked+.indicator::after {
+                width: calc(#{$size} / 10 * 3);
+                height: calc(#{$size} / 10 * 5);
+                border: solid $default-icon-color;
+                border-width: 0 2px 2px 0;
+                @include transform( translate(-50%, -65%) rotate(45deg));
+            }
+        }
+    }
+}

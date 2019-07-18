@@ -1,0 +1,21 @@
+[submodule "src/magaele/act_rajx"]
+	path = src/magaele/act_rajx
+	url = http://devops/LionF2E/Modules-Development/_git/act_rajx
+[submodule "src/magaele/core"]
+	path = src/magaele/core
+	url = http://devops/LionF2E/Modules-Development/_git/core
+[submodule "src/magaele/cr_rcln"]
+	path = src/magaele/cr_rcln
+	url = http://devops/LionF2E/Modules-Development/_git/cr_rcln
+[submodule "src/magaele/dtm_rcfr"]
+	path = src/magaele/dtm_rcfr
+	url = http://devops/LionF2E/Modules-Development/_git/dtm_rcfr
+[submodule "src/magaele/ic_rcln"]
+	path = src/magaele/ic_rcln
+	url = http://devops/LionF2E/Modules-Development/_git/ic_rcln
+[submodule "src/magaele/ntb_rcln"]
+	path = src/magaele/ntb_rcln
+	url = http://devops/LionF2E/Modules-Development/_git/ntb_rcln
+[submodule "src/magaele/bt_rcnb"]
+	path = src/magaele/bt_rcnb
+	url = http://devops/LionF2E/Modules-Development/_git/bt_rcnb

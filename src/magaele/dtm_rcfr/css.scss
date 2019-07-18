@@ -1,0 +1,93 @@
+@import "../core/core/mixins";
+@import "../core/core/variables";
+
+$color_gray: #bbb;
+$classname: 'dtm_rcfr';
+
+.#{$classname} {
+    .all_wrap {
+        border-bottom: 1px solid #ff8b88;
+        padding-bottom: 15px;
+    }
+    .sec {
+        border-bottom: 1px solid $color_gray;
+        padding: 5px 0 10px 0;
+        &:last-child {
+            border-bottom: none;
+        }
+    }
+    .sec_all {
+        display: inline-block;
+        font-size: 16px;
+        font-weight: bold;
+        text-decoration: underline;
+        line-height: 30px;
+        padding: 0 5px;
+        border-radius: 3px;
+        cursor: pointer;
+        &.active {
+            color: #fff;
+            background-color: #ff615d;
+            text-decoration: none;
+        }
+    }
+    .sec_wrap {
+        margin-top: 10px;
+        border-top: 1px solid #ff8b88;
+    }
+    .item {
+        position: relative;
+        display: inline-block;
+        vertical-align: middle;
+        width: 50%;
+        line-height: 30px;
+        border-radius: 3px;
+        padding: 0 15px 0 5px;
+        margin: 2px 0 0;
+        cursor: pointer;
+        &:hover,
+        &.active {
+            color: #fff;
+            background-color: #ff615d;
+        }
+        .ic_rcln {
+            position: absolute;
+            right: 5px;
+            top: 50%;
+            transform: translateY(-50%);
+        }
+    }
+}
+
+@media (min-width: 980px) {
+    .#{$classname} {
+        .sec {
+            display: flex;
+            padding: 10px 0;
+            &:last-child {
+                border-bottom: none;
+            }
+        }
+        .sec_title {
+            width: 110px;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            padding-top: 5px;
+        }
+        .sec_content {
+            flex: 1;
+        }
+        .sec_wrap {
+            margin-top: 10px;
+            border-top: 1px solid #ff8b88;
+        }
+        .item {
+            width: 25%;
+            &:hover {
+                color: #fff;
+                background-color: #ff615d;
+            }
+        }
+    }
+}
